@@ -1,0 +1,407 @@
+name,album,release_date,id,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity,duration_ms,flagged_for_differences,outlier_feature
+Fool To Cry,Black And Blue,1976-04-23,2hjGkFzdskqu5936maFslX,0.939,0.464,0.338,0.16,0.111,-11.7,0.0437,70.131,0.296,28,303893,False,acousticness
+100 Years Ago - Piano Demo,Goats Head Soup (Deluxe),2020-09-04,7mJffnVw9vwPj4bh42lN2l,0.935,0.554,0.413,0.000994,0.145,-7.8,0.0276,105.219,0.414,25,163013,False,acousticness
+Key To The Highway - Piano Instrumental/Remastered 2009,Dirty Work (Remastered 2009),1986-03-24,3As7nxoMY2gOMxVdksIU2F,0.994,0.46,0.142,0.827,0.138,-24.408,0.173,154.259,0.444,16,33466,False,acousticness
+Whoopi Goldberg Intro - Live,Voodoo Lounge Uncut (Live),2018-11-16,4Q1mpLGl94xstgXlhoaCh5,0.92,0.397,0.902,0.367,0.94,-12.418,0.624,98.356,0.0394,12,102748,False,acousticness
+Key To The Highway - Piano Instrumental,Dirty Work,1986-03-24,5vaIQW6IAjNo5tUoZGTiKE,0.994,0.563,0.141,0.872,0.134,-24.351,0.099,101.793,0.458,12,33466,False,acousticness
+It Hurts Me Too,Jamming With Edward,1972-01-07,5lgfWxatYUKXvQEE1oTGDE,0.673,0.462,0.261,0.629,0.126,-14.986,0.0545,168.166,0.405,35,314373,False,energy
+Back Street Girl,Flowers,1967-06-26,7euYUzZ3UgQlm7BM6sll65,0.0182,0.527,0.248,0.0,0.0986,-12.781,0.027,77.397,0.515,28,206773,True,energy
+Back Street Girl,Between The Buttons (UK Version),1967-01-20,2WRV9CuTU1v3FM3GqlQFtL,0.0193,0.417,0.25,0.0,0.0935,-12.772,0.0273,154.213,0.524,27,207040,False,energy
+Interlude A La El Hopo / Loveliest Night Of The Year,Jamming With Edward,1972-01-07,7hnehY2vACxvGRAarPmK1o,0.663,0.421,0.252,0.193,0.143,-21.548,0.0495,82.951,0.495,16,125982,False,energy
+Key To The Highway - Piano Instrumental/Remastered 2009,Dirty Work (Remastered 2009),1986-03-24,3As7nxoMY2gOMxVdksIU2F,0.994,0.46,0.142,0.827,0.138,-24.408,0.173,154.259,0.444,16,33466,False,energy
+Key To The Highway - Piano Instrumental,Dirty Work,1986-03-24,5vaIQW6IAjNo5tUoZGTiKE,0.994,0.563,0.141,0.872,0.134,-24.351,0.099,101.793,0.458,12,33466,False,energy
+Love In Vain - Live,Get Yer Ya Yas Out,1970-09-04,4eytHgouVLrqBncnaQqpVF,0.42,0.429,0.272,0.143,0.904,-16.572,0.0297,78.704,0.177,5,296466,False,energy
+Back Street Girl,Between The Buttons,1967-01-20,2OyAGEMBuKEZCOJNYJoUzK,0.0189,0.412,0.242,0.0,0.0938,-12.927,0.0275,154.489,0.548,1,206973,False,energy
+Tumbling Dice,Exile On Main Street (2010 Re-Mastered),1972-05-12,4hq0S6wznq7SHDyMOFXL9i,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,0.77,63,226333,False,instrumentalness
+Get Off Of My Cloud - Mono Version,December’s Children (And Everybody’s),1965-12-04,263Iuyk08ks1v6FIudUIGD,0.0289,0.579,0.877,0.571,0.0656,-8.83,0.0488,126.336,0.9,55,175080,False,instrumentalness
+The Last Time - Mono Version,Out Of Our Heads,1965-07-30,7foiOmd1Je7Z0D3TaZCDro,0.144,0.327,0.92,0.84,0.774,-5.223,0.0611,167.972,0.439,50,221493,False,instrumentalness
+Happy,Exile On Main Street (Deluxe Version),1972-05-12,5fXRPS1tp70DbqsBZVyG4e,0.361,0.555,0.897,0.94,0.536,-3.469,0.0293,131.712,0.965,49,184626,False,instrumentalness
+Rip This Joint,Exile On Main Street (2010 Re-Mastered),1972-05-12,0SojSZcka4j8l8Sl0W9jUZ,0.118,0.548,0.952,0.837,0.301,-2.958,0.0422,98.04,0.906,49,143293,False,instrumentalness
+Sway - 2009 Mix,Sticky Fingers (Remastered),1971-04-23,1ZS5HBMAmZk3gjFcedts66,0.221,0.33,0.895,0.737,0.408,-3.435,0.0399,144.945,0.54,46,232533,False,instrumentalness
+Some Girls - Remastered,Some Girls,1978-06-09,3pQXptTkIkOQsK3pyYlRbJ,0.527,0.474,0.938,0.52,0.299,-2.643,0.0898,71.995,0.505,43,276933,False,instrumentalness
+Shake Your Hips,Exile On Main Street (2010 Re-Mastered),1972-05-12,3u28KPrRmJiNC39Fm3tZVe,0.69,0.374,0.787,0.831,0.203,-7.054,0.0617,180.496,0.763,43,179000,False,instrumentalness
+Ventilator Blues,Exile On Main Street (2010 Re-Mastered),1972-05-12,74mpiRPDd2rFeBR1Yl60I3,0.6,0.618,0.678,0.723,0.501,-5.199,0.0316,133.453,0.79,43,204573,False,instrumentalness
+Let It Loose,Exile On Main Street (2010 Re-Mastered),1972-05-12,2u63axjx9VKmFfQNqmpi8a,0.869,0.352,0.656,0.8,0.221,-5.721,0.0289,76.121,0.363,42,317173,False,instrumentalness
+All Down The Line,Exile On Main Street (2010 Re-Mastered),1972-05-12,5GHKbjIY0gTCqoY5aruDDc,0.39,0.519,0.973,0.978,0.784,-3.044,0.0562,140.221,0.822,42,229493,False,instrumentalness
+100 Years Ago - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,58TvHfaC4Hvf8IfkxT9BFq,0.732,0.409,0.799,0.765,0.644,-4.333,0.0483,124.334,0.624,42,238133,False,instrumentalness
+Respectable - Remastered,Some Girls,1978-06-09,40uqC6osBbNPm4jEN3OsAl,0.123,0.452,0.99,0.884,0.0677,-2.823,0.0524,152.111,0.875,42,187440,False,instrumentalness
+Not Fade Away - Mono Version,England’s Newest Hitmakers,1964-05-30,0C7w4XnkIGu11MpNWbiTLB,0.00661,0.75,0.826,0.63,0.153,-9.992,0.0472,113.294,0.896,41,107720,False,instrumentalness
+Torn And Frayed,Exile On Main Street (2010 Re-Mastered),1972-05-12,5SiCTf5r1cVjQXAXB2StpS,0.664,0.454,0.766,0.904,0.594,-3.862,0.0272,90.677,0.776,41,257240,False,instrumentalness
+Hate To See You Go,Blue & Lonesome,2016-12-02,0EJCZM5mVoJjA1MxcoZE6O,0.399,0.418,0.828,0.669,0.146,-5.173,0.122,184.436,0.376,41,200786,False,instrumentalness
+(I Can't Get No) Satisfaction - Saturday Club / 1965,On Air (Deluxe),2017-12-01,2aBM9gLAhJgaUIo7HVZ75j,0.00101,0.649,0.744,0.616,0.0758,-8.279,0.0279,136.687,0.77,41,226880,False,instrumentalness
+Tumbling Dice,Honk (Deluxe),2019-04-19,6GpoY3iuHJY7fcyonia60B,0.455,0.617,0.905,0.578,0.289,-4.585,0.0351,110.957,0.787,41,226240,False,instrumentalness
+Happy,Exile On Main Street (2010 Re-Mastered),1972-05-12,0rucXTNGt4BHpAjNR5d0UF,0.361,0.555,0.897,0.94,0.536,-3.469,0.0293,131.712,0.965,41,184626,False,instrumentalness
+When The Whip Comes Down - Remastered,Some Girls,1978-06-09,2h7OfDcrNaHnhHLR9uEnhA,0.382,0.499,0.986,0.913,0.284,-1.871,0.0503,130.597,0.835,40,260959,False,instrumentalness
+Stupid Girl,Aftermath,1966-04-15,3hloNY7y2r53Cm3zkR7kZV,0.173,0.694,0.802,0.486,0.152,-11.918,0.0577,130.879,0.903,39,175386,False,instrumentalness
+Winter - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,5BquOJwWEEJMGqXsUNWjHu,0.797,0.329,0.658,0.612,0.161,-6.017,0.0351,150.236,0.633,38,329400,False,instrumentalness
+Stop Breaking Down,Exile On Main Street (2010 Re-Mastered),1972-05-12,09eg3FGzsZQbZk8qEXhJIA,0.509,0.522,0.891,0.908,0.111,-4.085,0.0322,104.411,0.91,38,274773,False,instrumentalness
+Lies - Remastered,Some Girls,1978-06-09,7hDQerpfE5FgYtVKEVemwl,0.437,0.382,0.997,0.95,0.617,-1.568,0.188,162.428,0.563,37,191266,False,instrumentalness
+Turd On The Run,Exile On Main Street (2010 Re-Mastered),1972-05-12,7wSVa5dSpjM62zrF0WsMVQ,0.65,0.517,0.781,0.977,0.341,-6.33,0.0405,119.364,0.742,37,157173,False,instrumentalness
+I Just Want To See His Face,Exile On Main Street (2010 Re-Mastered),1972-05-12,22OTrlQy1sXdtdo1VgDUZb,0.689,0.654,0.542,0.584,0.204,-14.696,0.0419,78.015,0.877,36,172626,False,instrumentalness
+Tumbling Dice,Exile On Main Street (Deluxe Version),1972-05-12,6DjtOcS3xQO8LETk8O4qgE,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,0.77,36,226333,False,instrumentalness
+Sympathy For The Devil - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,3VGzWMIxl4zuArW043WSGf,0.0163,0.587,0.833,0.581,0.851,-7.331,0.0683,112.5,0.748,35,411866,False,instrumentalness
+Dancing With Mr. D,Goats Head Soup (Remastered 2009),1973-08-31,1o1pQLvKMNqkeLYWGrlA4d,0.562,0.564,0.924,0.649,0.403,-3.585,0.0345,106.022,0.903,35,292360,False,instrumentalness
+It Hurts Me Too,Jamming With Edward,1972-01-07,5lgfWxatYUKXvQEE1oTGDE,0.673,0.462,0.261,0.629,0.126,-14.986,0.0545,168.166,0.405,35,314373,False,instrumentalness
+I Just Want To Make Love To You - Mono Version,The Rolling Stones,1964-04-16,7j96wehhMtN0fkVvFhD8Ix,0.219,0.657,0.825,0.845,0.354,-8.94,0.098,126.817,0.582,34,137666,False,instrumentalness
+"Have You Seen Your Mother, Baby, Standing In The Shadow? - Mono Version",Flowers,1967-06-26,31vgSRfK5YOGSCAfj6zPAS,0.283,0.373,0.834,0.769,0.235,-5.49,0.0366,100.54,0.486,34,154000,False,instrumentalness
+Paint It Black - Live / Remastered 2009,Flashpoint,1991-04-02,2EbjXvnFwgt4Td3xKZZzTb,0.0128,0.267,0.962,0.689,0.988,-3.838,0.117,160.804,0.347,33,241840,False,instrumentalness
+Commit A Crime,Blue & Lonesome,2016-12-02,5hWH3pUZccd9fiDvR19GJl,0.23,0.563,0.802,0.667,0.534,-4.496,0.0311,124.123,0.777,33,218306,False,instrumentalness
+Concert Intro Music - Live,Licked Live In NYC,2022-06-10,2IEkywLJ4ykbhi1yRQvmsT,0.0824,0.463,0.993,0.996,0.932,-12.913,0.11,118.001,0.0302,33,48640,False,instrumentalness
+100 Years Ago,Goats Head Soup,1973-08-31,0QkA9199IRH8RA9A5tnhfM,0.586,0.4,0.642,0.619,0.53,-9.39,0.0352,105.139,0.604,32,239040,False,instrumentalness
+One More Try - Remastered 2002,Out Of Our Heads,1965-07-30,31cv3fhKrFy6UTrWIY5mSD,0.0357,0.539,0.802,0.526,0.303,-9.484,0.0561,177.9,0.94,32,118013,False,instrumentalness
+Hide Your Love - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,2yDQ8m6Fhyxw7Bwi7l7ztt,0.824,0.527,0.752,0.757,0.229,-5.262,0.0298,109.572,0.745,32,251826,False,instrumentalness
+Happy,Honk (Deluxe),2019-04-19,34OVMKNbZGdYT04LRMx5w9,0.328,0.552,0.894,0.938,0.515,-3.835,0.0292,131.71,0.968,32,185933,False,instrumentalness
+Silver Train - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,74T1xZpCHhxasI1u8d7Zq2,0.349,0.41,0.94,0.762,0.635,-3.034,0.0417,147.623,0.804,32,266266,False,instrumentalness
+Can't You Hear Me Knocking - Alternate Version,Sticky Fingers (Deluxe),1971-04-23,76v9ncy3YiQhe6oJPyR5YB,0.221,0.59,0.773,0.808,0.0763,-6.477,0.0393,149.196,0.777,32,204080,False,instrumentalness
+Coming Down Again - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,7wvv3OLPrX0pENjcDDLLbS,0.867,0.458,0.427,0.915,0.11,-7.993,0.0247,71.514,0.36,32,354173,False,instrumentalness
+Susie Q,12 X 5,1964-10-17,52A8QH0MF14J9gcJbN1tIt,0.0333,0.506,0.762,0.69,0.211,-9.059,0.0345,80.84,0.967,32,110986,False,instrumentalness
+Start Me Up - Live / Remastered 2009,Flashpoint,1991-04-02,0SbFvgWkzS01OELImAPHyI,0.163,0.515,0.994,0.62,0.99,-2.263,0.0843,132.773,0.794,32,233493,False,instrumentalness
+Rip This Joint,Exile On Main Street (Deluxe Version),1972-05-12,5F5UNt3WBzmUJ3irvfAi8w,0.118,0.548,0.952,0.837,0.301,-2.958,0.0422,98.04,0.906,32,143293,False,instrumentalness
+Torn And Frayed,Exile On Main Street (Deluxe Version),1972-05-12,6dE1etqLwt5GUUBVQdIgBB,0.664,0.454,0.766,0.904,0.594,-3.862,0.0272,90.677,0.776,31,257240,False,instrumentalness
+All The Rage,Goats Head Soup (Deluxe),2020-09-04,6rPmU6mXAwGVhnYgEU0kCg,0.0176,0.544,0.876,0.665,0.063,-4.33,0.0362,133.026,0.907,31,251173,False,instrumentalness
+Sympathy For The Devil - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,1hVWTQ5CZermtPzIaLJOzd,0.0167,0.587,0.833,0.588,0.839,-7.333,0.069,112.586,0.748,31,411866,False,instrumentalness
+Sad Sad Sad - Remastered,Steel Wheels (Remastered 2009),1989-08-29,7FADg5WNyvzaVtMhMpfW0X,0.0105,0.396,0.993,0.533,0.579,-3.815,0.0797,152.268,0.531,31,215693,False,instrumentalness
+Jumpin' Jack Flash - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,3gwX9fGKdFczJwJK2MtvbL,0.0325,0.443,0.884,0.679,0.978,-9.083,0.049,137.62,0.616,31,243133,False,instrumentalness
+Hitch Hike - Remastered 2002,Out Of Our Heads,1965-07-30,46kq7eoX26e9MdhDwDmcye,0.312,0.745,0.841,0.631,0.0325,-6.952,0.0329,123.535,0.961,31,145640,False,instrumentalness
+Shake Your Hips,Exile On Main Street (Deluxe Version),1972-05-12,3JhfyWKIYR3opA4DpHxP1w,0.69,0.374,0.787,0.831,0.203,-7.054,0.0617,180.496,0.763,31,179000,False,instrumentalness
+Honest I Do,The Rolling Stones,1964-04-16,22Bvku5X3odiXj2wbtgY4T,0.151,0.646,0.374,0.651,0.208,-10.706,0.103,87.593,0.475,31,129800,False,instrumentalness
+Ventilator Blues,Exile On Main Street (Deluxe Version),1972-05-12,4qI7G7K9MNbekIXmCI3m18,0.6,0.618,0.678,0.723,0.501,-5.199,0.0316,133.453,0.79,30,204573,False,instrumentalness
+Let It Loose,Exile On Main Street (Deluxe Version),1972-05-12,7D2f7zoIwRxeIhmeer8aWm,0.869,0.352,0.656,0.8,0.221,-5.721,0.0289,76.121,0.363,30,317173,False,instrumentalness
+Down In The Hole - Remastered,Emotional Rescue (2009 Re-Mastered),1980-06-20,7m8ho2ixAYs30dPdZ9i0BV,0.0119,0.293,0.712,0.902,0.348,-6.122,0.0908,186.898,0.249,30,238093,False,instrumentalness
+Now I've Got A Witness,The Rolling Stones,1964-04-16,6QswKScFURI1x3gZ9isXK7,0.0375,0.666,0.682,0.912,0.256,-7.789,0.0298,97.849,0.953,29,151813,False,instrumentalness
+I'm Alright - Live,Out Of Our Heads,1965-07-30,48qISZnlpVboOBRAiaudbS,5.81e-05,0.426,0.824,0.716,0.946,-9.782,0.0502,118.944,0.612,29,143586,False,instrumentalness
+Can You Hear The Music - Remastered,Goats Head Soup (Remastered 2009),1973-08-31,6B8czH1kJLkcihMhFdr6Xp,0.733,0.322,0.69,0.554,0.61,-6.672,0.032,73.279,0.492,29,331706,False,instrumentalness
+Down Home Girl,The Rolling Stones No. 2,1965-01-15,1oRP1QanjB3pBehwJSm6JM,0.624,0.663,0.785,0.695,0.0779,-8.146,0.027,115.811,0.847,29,251746,False,instrumentalness
+Jumpin' Jack Flash - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,6zlcTvYvUXdGTpvOV3aCnu,0.0321,0.44,0.886,0.677,0.978,-9.092,0.0498,137.722,0.625,28,243133,False,instrumentalness
+(I Can't Get No) Satisfaction - Live,Havana Moon (Live),2016-11-11,6x7XTxs6pE1OuimqK7JJ7p,0.0149,0.341,0.974,0.633,0.345,-4.155,0.0848,131.156,0.321,28,628947,False,instrumentalness
+2120 South Michigan Avenue - Long Version,12 X 5,1964-10-17,4KoBKbnRh4BywqvY5VPkts,0.00137,0.609,0.585,0.876,0.0819,-13.173,0.0305,147.176,0.825,28,218466,False,instrumentalness
+Honky Tonk Women - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,40N7vAFHhwuS92Ce66mkpw,0.0389,0.412,0.79,0.532,0.737,-8.142,0.0499,114.056,0.802,28,214273,False,instrumentalness
+Dancing With Mr. D,Honk (Deluxe),2019-04-19,52TCAgRsrFAiBDNNf09eJI,0.523,0.56,0.9,0.733,0.22,-5.121,0.0352,106.11,0.89,28,293253,False,instrumentalness
+All Down The Line,Exile On Main Street (Deluxe Version),1972-05-12,2tPYeRNVROwJpG7tOHXJTZ,0.39,0.519,0.973,0.978,0.784,-3.044,0.0562,140.221,0.822,28,229493,False,instrumentalness
+Carol - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,0aA3w0aYq7PcQSXOTbMzXz,0.244,0.607,0.897,0.593,0.99,-7.715,0.0383,138.05,0.915,27,226480,False,instrumentalness
+Little Queenie - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,3bqamFs488lwGdpf6TCYAr,0.149,0.506,0.812,0.793,0.666,-6.879,0.0389,124.917,0.964,27,273266,False,instrumentalness
+Turd On The Run,Exile On Main Street (Deluxe Version),1972-05-12,3aZyQJSjtrzPXi670Dp7dN,0.65,0.517,0.781,0.977,0.341,-6.33,0.0405,119.364,0.742,27,157173,False,instrumentalness
+Slave,Tattoo You,1981-08-24,0QtFb4SXJ8yOds90DBTDwM,0.163,0.562,0.814,0.482,0.0467,-9.087,0.0396,133.219,0.863,27,392360,False,instrumentalness
+Stop Breaking Down,Exile On Main Street (Deluxe Version),1972-05-12,30t7Yif8FyeCANkW2Beii3,0.509,0.522,0.891,0.908,0.111,-4.085,0.0322,104.411,0.91,27,274773,False,instrumentalness
+Where The Boys Go - Remastered,Emotional Rescue (2009 Re-Mastered),1980-06-20,3SlME8VLYeouyCAKPaTB41,0.266,0.49,0.993,0.583,0.786,-3.498,0.136,160.399,0.821,27,209373,False,instrumentalness
+Jumpin’ Jack Flash - Live At The El Mocambo 1977,Live At The El Mocambo,2022-05-13,70ntdSs0g1wIP7xbpTWSds,0.007,0.219,0.915,0.652,0.975,-6.613,0.104,151.344,0.64,27,326386,False,instrumentalness
+Heartbreaker - Instrumental,Goats Head Soup (Deluxe),2020-09-04,4eADFeuWdtyGqih4h98NVj,0.447,0.363,0.759,0.888,0.153,-8.022,0.0297,105.236,0.105,26,197626,False,instrumentalness
+Not Fade Away - Live / Remastered 2009,Stripped,1995-01-13,4gh4tTzfOgaZI13ksyESSR,0.141,0.665,0.799,0.485,0.43,-8.92,0.0301,95.451,0.969,26,186293,False,instrumentalness
+Sway - 2009 Mix,Sticky Fingers (Deluxe),1971-04-23,2TgVLVuBUBp8Dc6tER4mg4,0.221,0.33,0.895,0.737,0.408,-3.435,0.0399,144.945,0.54,26,232533,False,instrumentalness
+Pain In My Heart,The Rolling Stones No. 2,1965-01-15,2Ha8g7bpI5Ii6bjFBw5Tjd,0.625,0.458,0.567,0.758,0.137,-8.933,0.038,178.312,0.778,26,131560,False,instrumentalness
+Little T&A,Tattoo You,1981-08-24,5CMj0ulCvVnYm9S8vS8HSG,0.266,0.534,0.801,0.62,0.398,-9.152,0.0271,136.241,0.866,26,203333,False,instrumentalness
+Carol - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,4srExQl2wIuj7VjNpxKALZ,0.248,0.606,0.894,0.604,0.989,-7.712,0.0396,138.056,0.911,26,226480,False,instrumentalness
+I Just Want To See His Face,Exile On Main Street (Deluxe Version),1972-05-12,2s9SV3uTSdEf2Z3pSfou6d,0.689,0.654,0.542,0.584,0.204,-14.696,0.0419,78.015,0.877,26,172626,False,instrumentalness
+Gomper - Remastered 2017 / Stereo,Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered),1967-12-08,34Kgv4n8fsGyjylmg3jUx0,0.756,0.36,0.595,0.618,0.144,-10.074,0.0337,134.097,0.273,25,308746,False,instrumentalness
+Brown Sugar - Live / Remastered 2009,Flashpoint,1991-04-02,1lAlkGvyolKaqCEz6LRcPg,0.0188,0.428,0.991,0.61,0.953,-2.198,0.0783,141.86,0.577,25,249626,False,instrumentalness
+Honky Tonk Women - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,4vGmdNInQ0n8oNIKn0HR0l,0.0398,0.412,0.787,0.49,0.735,-8.142,0.0505,114.076,0.802,25,214293,False,instrumentalness
+Jumpin Jack Flash - Live,Licked Live In NYC,2022-06-10,7p0sTErcMXc1jJ2Ff4QlcT,0.313,0.192,0.964,0.538,0.968,-4.264,0.0609,138.005,0.191,25,370733,False,instrumentalness
+Brown Sugar - Live,Licked Live In NYC,2022-06-10,2JMQKVRanp4auj0hGkw3GE,0.439,0.34,0.989,0.722,0.982,-4.734,0.108,139.361,0.164,25,337600,False,instrumentalness
+It's Only Rock 'N' Roll - Live,Licked Live In NYC,2022-06-10,1Wkbdv5UDv3slS34WWJOAN,0.675,0.378,0.986,0.621,0.971,-5.232,0.0833,140.253,0.436,25,303960,False,instrumentalness
+Coming Down Again - 2020,Goats Head Soup (Deluxe),2020-09-04,5Pk7w1nimgJlH5Rcd2nfNQ,0.76,0.483,0.397,0.519,0.111,-8.76,0.0308,71.902,0.384,25,354173,False,instrumentalness
+Criss Cross,Goats Head Soup (Deluxe),2020-09-04,6HHfGbvGKx0ny7NMR1HIHL,0.0145,0.555,0.94,0.628,0.057,-4.232,0.0762,131.951,0.668,25,272346,False,instrumentalness
+Rip This Joint - Live At The El Mocambo 1977,Live At The El Mocambo,2022-05-13,6QtxrobAYG2mMfM9LcW6Y4,0.0293,0.437,0.948,0.756,0.976,-5.321,0.0943,116.343,0.727,25,131133,False,instrumentalness
+Miss You - Live,Some Girls: Live In Texas '78,2011-11-21,69qKu7HJBpFMESIciFgVcg,0.00252,0.47,0.949,0.475,0.93,-5.673,0.045,117.158,0.829,24,515559,False,instrumentalness
+Little Queenie - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,0ZpY0O8eE3HWy3i9of01gg,0.151,0.495,0.811,0.785,0.66,-6.879,0.0392,126.69,0.964,24,273266,False,instrumentalness
+One More Shot,Honk (Deluxe),2019-04-19,6HSMR3g3RNfIDUymhFSYiq,0.000158,0.568,0.938,0.664,0.0579,-4.737,0.0361,122.804,0.684,24,182839,False,instrumentalness
+Silver Train - 2020,Goats Head Soup (Deluxe),2020-09-04,0t3FSBpEMhJCDWnARnNVnw,0.138,0.425,0.919,0.793,0.566,-2.684,0.0365,147.821,0.883,24,266266,False,instrumentalness
+Title 5,Exile On Main Street (Deluxe Version),1972-05-12,0L9upeBPGyAEVtJTeMS0NZ,0.473,0.466,0.831,0.831,0.322,-7.849,0.0343,95.548,0.885,24,107426,False,instrumentalness
+Sway - 2009 Mix,Sticky Fingers (Super Deluxe),1971-04-23,3pT6IfDS1kcOn4CHT1PE7q,0.221,0.33,0.895,0.737,0.408,-3.435,0.0399,144.945,0.54,24,232533,False,instrumentalness
+Hide Your Love - 2020,Goats Head Soup (Deluxe),2020-09-04,3HA10vklRF61I5B1906K6d,0.691,0.537,0.707,0.785,0.132,-4.873,0.0291,110.06,0.771,24,251826,False,instrumentalness
+Stupid Girl,Aftermath (UK Version),1966-04-15,1KNAcsfbvGvUyRepqrO2QM,0.188,0.7,0.811,0.55,0.256,-11.837,0.0589,130.895,0.891,23,174760,True,instrumentalness
+Street Fighting Man - Live,Get Yer Ya-Ya's Out! (Remastered),1970-09-04,12jHGLXB0CsORLG0LECw9g,0.000129,0.273,0.866,0.784,0.962,-7.598,0.0346,134.906,0.513,23,244413,False,instrumentalness
+Susie Q,The Rolling Stones No. 2,1965-01-15,7qOLXYcFU9PVezyEUDJUug,0.0404,0.509,0.753,0.822,0.169,-9.249,0.0328,80.8,0.968,23,110986,False,instrumentalness
+Street Fighting Man - Live,Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,095WtNlSHE8TMB2gQ1fdTx,0.000128,0.273,0.866,0.79,0.961,-7.598,0.0347,134.891,0.501,23,246413,False,instrumentalness
+Street Fighting Man - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,4Gb2izWLauOK4jQF3s1b8C,0.0664,0.232,0.991,0.639,0.979,-2.749,0.138,144.031,0.178,22,223466,False,instrumentalness
+"(I Can't Get No) Satisfaction - Live From Madison Square Garden, New York/1969",Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,7i0GRg4OOImfw5DDGka9mP,0.000298,0.437,0.911,0.64,0.966,-6.859,0.0372,144.338,0.885,22,340626,False,instrumentalness
+Under My Thumb - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,6bfEROTTedGsYPKzg6Agkq,0.178,0.374,0.954,0.908,0.988,-7.062,0.0766,140.934,0.582,22,233786,False,instrumentalness
+Route 66 - Live,December’s Children (And Everybody’s),1965-12-04,6z0Yz6aGF4NNyAGSAZbED9,0.0271,0.38,0.965,0.895,0.397,-6.457,0.0744,85.183,0.483,22,159280,False,instrumentalness
+Oh Baby (We Got A Good Thing Goin') - Remastered 2002,"The Rolling Stones, Now!",1965-02-13,2Dt8ceipgqRsDxln0aV83Q,0.466,0.634,0.758,0.743,0.882,-8.689,0.0302,141.559,0.965,22,128039,False,instrumentalness
+Blow With Ry,Jamming With Edward,1972-01-07,72djY4kbSGzDFGPJrIOs2T,0.469,0.576,0.605,0.635,0.119,-12.491,0.0595,90.374,0.712,22,667918,False,instrumentalness
+Start Me Up - Live,A Bigger Bang (Live),2021-07-09,1SBaSJ0M9qs2S4Rv0wkzaV,0.333,0.431,0.983,0.798,0.921,-3.722,0.0856,130.594,0.365,22,244853,False,instrumentalness
+The Boudoir Stomp,Jamming With Edward,1972-01-07,66ViZwmer5nrWGOraKP5zH,0.432,0.62,0.591,0.91,0.102,-12.908,0.0583,132.329,0.812,22,315852,False,instrumentalness
+Gotta Get Away - Mono Version,Out Of Our Heads (UK),1965-07-30,6QQ0cZOEDbms1cm9yaP8xF,0.0693,0.666,0.55,0.574,0.142,-8.296,0.0326,112.947,0.699,21,127600,False,instrumentalness
+Down Home Girl,"The Rolling Stones, Now!",1965-02-13,5BF1UHpSK96JdztJdZbHrr,0.594,0.664,0.786,0.633,0.1,-8.21,0.0269,115.791,0.856,21,251733,False,instrumentalness
+Brown Sugar - Live,Havana Moon (Live),2016-11-11,4CZF7KwvFmUUDkl4P9lfYn,0.00207,0.438,0.97,0.598,0.909,-4.286,0.0915,126.516,0.42,21,433033,False,instrumentalness
+Some Girls - Remastered,Some Girls (Deluxe Version),1978-06-09,27wGhiwP01mXNsS0clLm0U,0.527,0.474,0.938,0.52,0.299,-2.643,0.0898,71.995,0.505,21,276933,False,instrumentalness
+All Down The Line - Live,Ladies & Gentlemen (Live),2017-06-16,7EZyd1QpQA3D5x8KQG4xrq,0.0682,0.311,0.893,0.616,0.385,-5.124,0.0548,148.583,0.423,21,286933,False,instrumentalness
+The Spider And The Fly - Yeah Yeah / 1965,On Air (Deluxe),2017-12-01,49Js7VXTW5zl07AdwltJ7Z,0.0301,0.683,0.633,0.782,0.109,-10.846,0.109,111.757,0.892,21,194160,False,instrumentalness
+Can't You Hear Me Knocking - Live,Sticky Fingers Live At The Fonda Theatre,2017-09-29,0KL4ApWajaaENX9bMIyfOW,0.107,0.336,0.894,0.554,0.956,-3.829,0.0485,144.237,0.668,21,441146,False,instrumentalness
+Dancing With Mr D - Instrumental,Goats Head Soup (Deluxe),2020-09-04,3alcnVj2ubCNEIYr9dftts,0.106,0.479,0.865,0.947,0.0542,-5.182,0.0483,113.555,0.801,21,210893,False,instrumentalness
+Hide Your Love - Alternate Mix,Goats Head Soup (Deluxe),2020-09-04,5OTjZmoUjbiPN4org0pp9G,0.173,0.441,0.823,0.75,0.244,-5.4,0.053,108.276,0.689,21,317733,False,instrumentalness
+All The Way Down - Remastered,Undercover (2009 Re-Mastered),1983-11-07,01fNwidwuko3gFvAhHKrZ6,0.21,0.572,0.949,0.776,0.398,-4.83,0.0801,142.84,0.806,21,193333,False,instrumentalness
+Jumpin’ Jack Flash - Live,A Bigger Bang (Live),2021-07-09,4eCWyGsccThx7vuykVspby,0.325,0.258,0.988,0.89,0.969,-4.036,0.106,142.035,0.218,20,239053,False,instrumentalness
+Pretty Beat Up - Remastered,Undercover (2009 Re-Mastered),1983-11-07,1lJbKjGY6BqP7P7Dg5fdUY,0.0623,0.565,0.951,0.657,0.273,-3.804,0.0393,97.337,0.737,20,244600,False,instrumentalness
+When The Whip Comes Down - Remastered,Some Girls (Deluxe Version),1978-06-09,0xCgcDZnAiCD35gZkx1wsP,0.382,0.499,0.986,0.913,0.284,-1.871,0.0503,130.597,0.835,20,260959,False,instrumentalness
+Brown Sugar - Live,A Bigger Bang (Live),2021-07-09,26MGQq2uoqVgbXYTEIzsbT,0.237,0.377,0.982,0.807,0.989,-3.728,0.116,134.148,0.221,20,363493,False,instrumentalness
+It Must Be Hell - Remastered,Undercover (2009 Re-Mastered),1983-11-07,6ZdWqDL4XZcKayIARY01gb,0.156,0.602,0.912,0.716,0.351,-4.309,0.0596,114.406,0.726,20,304693,False,instrumentalness
+Let's Spend The Night Together - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,1tgevSO1tG0mwuLqwxen19,0.458,0.382,0.959,0.964,0.955,-5.971,0.124,157.371,0.426,20,262040,False,instrumentalness
+Gotta Get Away - Mono Version,December’s Children (And Everybody’s),1965-12-04,7gV0wgCg7awZ8Bwe99Ruc7,0.0666,0.669,0.572,0.578,0.156,-8.247,0.037,112.932,0.701,20,126653,False,instrumentalness
+Jumpin’ Jack Flash - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,6lhANuhEtlfI8tbu7JK9zY,0.139,0.298,0.976,0.738,0.972,-4.159,0.089,136.449,0.379,20,227880,False,instrumentalness
+Edward's Thrump Up,Jamming With Edward,1972-01-07,7BwJL2GrnJ2JkJfGgfoCK4,0.226,0.441,0.616,0.911,0.129,-12.812,0.034,120.942,0.787,20,493373,False,instrumentalness
+Can't You Hear Me Knocking - Alternate Version,Sticky Fingers (Super Deluxe),1971-04-23,69sAT74H7DKRDmvh6S0uwE,0.221,0.59,0.773,0.808,0.0763,-6.477,0.0393,149.196,0.777,20,204080,False,instrumentalness
+Short And Curlies,It's Only Rock 'N' Roll,1974-10-18,3eozqbjQ3b8ThqmjQFxGZ2,0.368,0.475,0.55,0.624,0.368,-10.302,0.0338,119.165,0.886,20,163666,False,instrumentalness
+Respectable,Honk (Deluxe),2019-04-19,64dBhm4VRjXWTF0osNP5bt,0.0594,0.452,0.985,0.81,0.0674,-3.588,0.0532,152.156,0.903,19,188466,False,instrumentalness
+Pain In My Heart,"The Rolling Stones, Now!",1965-02-13,2UCbDuiQ0rM74QAl0yvZIo,0.567,0.479,0.591,0.751,0.158,-8.902,0.0435,176.974,0.727,19,131546,False,instrumentalness
+Down In The Hole,Emotional Rescue,1980-06-20,1OyurpJ7NEwKlBxHYEvs4u,0.00851,0.306,0.516,0.875,0.325,-11.418,0.0635,187.292,0.274,19,237026,False,instrumentalness
+Dance (Pt. 1),Emotional Rescue,1980-06-20,5QhGM4Kc7jlT4p9b1Y6BDX,0.333,0.748,0.834,0.518,0.0582,-8.281,0.033,107.428,0.925,19,263200,False,instrumentalness
+Jumpin' Jack Flash - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,7gsbOwZoDNVgZbkm8sRvxV,0.409,0.246,0.994,0.757,0.987,-3.41,0.228,154.699,0.317,19,242360,False,instrumentalness
+I'm Moving On - Live,December’s Children (And Everybody’s),1965-12-04,3QJ5HpjabhvaXnBYcv1p9w,0.00646,0.188,0.871,0.779,0.301,-5.752,0.0573,169.661,0.535,19,133720,False,instrumentalness
+It's Only Rock 'N' Roll (But I Like It) - Live,A Bigger Bang (Live),2021-07-09,4b9BvuSAs43QEG75K1yZai,0.414,0.353,0.995,0.754,0.876,-4.113,0.141,142.961,0.131,19,268546,False,instrumentalness
+Respectable - Remastered,Some Girls (Deluxe Version),1978-06-09,33PXyHrkIHxp6PBVPlQGx7,0.123,0.452,0.99,0.884,0.0677,-2.823,0.0524,152.111,0.875,19,187440,False,instrumentalness
+All Down The Line - Live,Some Girls: Live In Texas '78,2011-11-21,3lCT9uo4kbt3SANCie6axE,0.0271,0.247,0.979,0.693,0.985,-5.309,0.101,162.637,0.597,19,236626,False,instrumentalness
+Shattered - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,2GUGfCkxUubz7arI3nX54i,0.376,0.362,0.985,0.501,0.935,-6.276,0.163,162.353,0.289,19,281066,False,instrumentalness
+Midnight Rambler - Live,A Bigger Bang (Live),2021-07-09,1oCKC9PO08c1d9GhRlRtxc,0.495,0.291,0.955,0.566,0.817,-5.177,0.192,144.032,0.255,19,734706,False,instrumentalness
+When The Whip Comes Down - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,5EARznSdXjRszJk5WTSFqx,0.194,0.382,0.972,0.959,0.67,-6.821,0.102,79.249,0.436,19,273546,False,instrumentalness
+Just My Imagination (Running Away With Me) - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,4dYsPUF7CbTr3dypXadEci,0.241,0.314,0.935,0.932,0.944,-6.393,0.0913,117.422,0.61,19,572186,False,instrumentalness
+Going To A Go-Go - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,5qNF2uTdTb1Q3gO4ChnvC7,0.458,0.572,0.932,0.773,0.941,-5.955,0.0671,127.818,0.624,19,220000,False,instrumentalness
+Time Is On My Side - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,6pZflWnn6Mikwm7L2DosQX,0.0206,0.329,0.798,0.933,0.694,-4.926,0.0431,97.839,0.311,19,171266,False,instrumentalness
+Doo Doo Doo Doo Doo (Heartbreaker),Goats Head Soup,1973-08-31,3Dkr0IVXCLmRkYRXAYzTOL,0.0181,0.447,0.537,0.756,0.133,-11.627,0.0282,111.085,0.643,18,206773,False,instrumentalness
+She's So Cold - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,3HylUWQsFpoYy8hUGPQeYa,0.219,0.36,0.952,0.673,0.736,-6.579,0.138,168.863,0.618,18,250493,False,instrumentalness
+Chantilly Lace - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,44N2LGPWDdfZ2dTzzO4rld,0.427,0.485,0.952,0.791,0.958,-5.495,0.0605,123.483,0.752,18,251626,False,instrumentalness
+Twenty Flight Rock - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,0qV3okWhZyPsp40aaczoMM,0.299,0.548,0.968,0.872,0.877,-5.737,0.0581,105.267,0.64,18,106120,False,instrumentalness
+Black Limousine - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,1RJVKm42E1FDiEHDdRirUK,0.292,0.307,0.963,0.927,0.994,-6.042,0.217,120.546,0.528,18,231400,False,instrumentalness
+Neighbours - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,2sOpm0AZURgyXGhgy5uQrK,0.351,0.402,0.969,0.977,0.947,-6.204,0.104,92.289,0.379,18,250146,False,instrumentalness
+I Just Want To Make Love To You - Mono Version,England’s Newest Hitmakers,1964-05-30,3FndaFZngYc1whJdHRkevk,0.222,0.658,0.822,0.798,0.359,-8.931,0.1,126.799,0.585,18,137666,False,instrumentalness
+"Oh No, Not You Again - Live",A Bigger Bang (Live),2021-07-09,5XqfGdfVyc4jk0ptSPZVkn,0.23,0.359,0.978,0.794,0.979,-4.103,0.147,143.921,0.253,18,269400,False,instrumentalness
+Tumbling Dice - Live,A Bigger Bang (Live),2021-07-09,6wCFnrRCdcrf8hGUJpif6Q,0.436,0.33,0.971,0.478,0.984,-4.435,0.129,125.392,0.263,18,290600,False,instrumentalness
+Highland Fling,Jamming With Edward,1972-01-07,4NbtGIHQR4tExGyfEKoj2W,0.325,0.482,0.707,0.934,0.123,-12.707,0.0262,148.61,0.649,18,257908,False,instrumentalness
+Jumpin' Jack Flash - Live,Some Girls: Live In Texas '78,2011-11-21,0cYj2BqDDlLgmoBkOBZY4q,2.41e-05,0.122,0.989,0.673,0.942,-4.603,0.106,159.883,0.289,18,375240,False,instrumentalness
+Intro - Live,A Bigger Bang (Live),2021-07-09,1ainbI65iGCqgkqi0cJd1E,0.258,0.183,0.967,0.688,0.87,-13.77,0.088,46.525,0.0159,17,130759,False,instrumentalness
+Honest I Do,England’s Newest Hitmakers,1964-05-30,4LVJXIr8CiZuj35lvzzA9y,0.153,0.653,0.377,0.693,0.213,-10.707,0.0857,87.527,0.447,17,129786,False,instrumentalness
+Hang Fire - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,5OOPWKx9NoFQDLOPjfWKzE,0.228,0.197,0.979,0.712,0.993,-5.8,0.0954,171.766,0.57,17,147106,False,instrumentalness
+Jumpin' Jack Flash - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,1Y68wEpLrQAlnBZRY2deRn,0.162,0.227,0.978,0.917,0.986,-6.262,0.103,155.773,0.481,17,361533,False,instrumentalness
+Start Me Up - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,4FbMzbRKaa8hTuDUHtLv6A,0.489,0.401,0.986,0.666,0.976,-5.755,0.14,138.949,0.493,17,279866,False,instrumentalness
+Let Me Go - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,3tGCxbXINNxHSv1rqIMhOv,0.114,0.286,0.978,0.917,0.903,-6.113,0.135,189.824,0.701,17,245733,False,instrumentalness
+Had It With You,Dirty Work,1986-03-24,7iEFja3s31vhM0KVKqL3xO,0.39,0.512,0.986,0.59,0.0597,-2.897,0.229,169.018,0.398,17,198266,False,instrumentalness
+"Intro: Excerpt from ""Fanfare For The Common Man"" - Live / Remastered 2009",Love You Live (Remastered 2009),1977-09-23,6Hwt7qupTUF2Qea5fQ7tYY,0.422,0.247,0.999,0.981,0.841,-8.598,0.128,55.581,0.0165,17,83826,False,instrumentalness
+2120 South Michigan Avenue - Rhythm And Blues / BBC World Service / 1964,On Air (Deluxe),2017-12-01,1E0umkUUHtmrVX7sgNMtTt,0.149,0.591,0.609,0.811,0.119,-10.012,0.036,141.994,0.733,17,227760,False,instrumentalness
+Jumpin’ Jack Flash - Live,Steel Wheels Live,2020-09-25,5m96zDBZcwqV52A0CPmXj4,0.00527,0.157,0.977,0.562,0.961,-4.198,0.107,141.473,0.228,17,396080,False,instrumentalness
+"All Down The Line - Live / Forest National Arena, Brussels / 17/10/73",Goats Head Soup (Deluxe),2020-09-04,4wZX9zG3glbRoznqz1uhiI,0.00154,0.239,0.963,0.47,0.795,-4.126,0.0552,83.126,0.664,17,260786,False,instrumentalness
+Not Fade Away - Live,Voodoo Lounge Uncut (Live),2018-11-16,1EdD9H50BlPO8eHD7oEXFC,0.409,0.393,0.939,0.544,0.965,-8.853,0.271,101.056,0.446,17,258783,False,instrumentalness
+"Bitch - Live At The Honda Center, Anaheim",Honk (Deluxe),2019-04-19,7FRjOlIq5wes9zoLhQDwWx,0.00765,0.351,0.977,0.627,0.898,-3.308,0.0618,137.389,0.485,17,315880,False,instrumentalness
+Hate To See You Go,Honk (Deluxe),2019-04-19,3ZhhSS4ROx1S47BSqhRUjf,0.372,0.443,0.825,0.497,0.143,-5.216,0.118,184.656,0.378,17,202373,False,instrumentalness
+Down The Road Apiece - Top Gear / 1965,On Air (Deluxe),2017-12-01,42EfCAeyjoVRx4CEoze6CN,0.0419,0.618,0.812,0.809,0.0465,-8.318,0.0598,85.983,0.881,17,121786,False,instrumentalness
+Now I've Got A Witness,England’s Newest Hitmakers,1964-05-30,2DLnVXA7SXLu7jagED0yjh,0.038,0.668,0.69,0.909,0.237,-7.794,0.0287,97.697,0.96,16,151813,False,instrumentalness
+Sad Sad Sad,Steel Wheels,1989-08-29,5ZzhevdZH02TAeuS6vHCaq,0.0192,0.427,0.978,0.569,0.544,-7.296,0.0544,152.285,0.618,16,215600,False,instrumentalness
+(I Can't Get No) Satisfaction - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,3n7zqQtyyTXtBqNKudGKwO,0.339,0.245,0.965,0.537,0.96,-5.666,0.0615,169.329,0.51,16,362026,False,instrumentalness
+"Mercy, Mercy - Yeah Yeah / 1965",On Air (Deluxe),2017-12-01,4EaHhUu7bZATp4W7IAwOqD,0.0495,0.711,0.636,0.674,0.0806,-9.935,0.0457,117.807,0.784,16,174653,False,instrumentalness
+The Last Time - Mono Version,Out Of Our Heads (US Sequence),1965-07-30,2h0AheQNR5WUgpFBBV8WeC,0.14,0.334,0.922,0.849,0.788,-5.248,0.0577,167.806,0.391,16,221533,False,instrumentalness
+"Gimme Some Loving - Live From Madison Square Garden, New York/1969",Get Yer Ya-Ya's Out! The Rolling Stones In Concert (40th Anniversary Edition),1970-09-04,1zvR1HuDjsT92fE2BbcWAt,0.782,0.557,0.796,0.812,0.442,-9.312,0.0368,88.698,0.779,16,49960,False,instrumentalness
+Gomper - Mono,Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered),1967-12-08,7ewRh01tlbUl3vBSMaV1Rv,0.757,0.387,0.665,0.714,0.0974,-7.49,0.0347,126.789,0.194,16,310200,False,instrumentalness
+Fannie Mae - Saturday Club / 1965,On Air (Deluxe),2017-12-01,58lPXUwwQImFwTbxJXcj9k,0.0225,0.543,0.7,0.867,0.108,-8.144,0.0306,142.334,0.944,16,131826,False,instrumentalness
+Key To The Highway - Piano Instrumental/Remastered 2009,Dirty Work (Remastered 2009),1986-03-24,3As7nxoMY2gOMxVdksIU2F,0.994,0.46,0.142,0.827,0.138,-24.408,0.173,154.259,0.444,16,33466,False,instrumentalness
+(I Can't Get No) Satisfaction - Live,A Bigger Bang (Live),2021-07-09,0uyhzYLrea2F9PQNbDWKan,0.241,0.287,0.984,0.907,0.952,-4.119,0.113,142.555,0.112,16,495320,False,instrumentalness
+Lies - Remastered,Some Girls (Deluxe Version),1978-06-09,6362zAWHGgbrQaoeCFZpuO,0.437,0.382,0.997,0.95,0.617,-1.568,0.188,162.428,0.563,16,191266,False,instrumentalness
+Rough Justice - Live,A Bigger Bang (Live),2021-07-09,5pCxbLU4VTA064974GKU7y,0.453,0.281,0.993,0.888,0.823,-3.786,0.154,144.554,0.11,16,204226,False,instrumentalness
+Get Off Of My Cloud - Live,A Bigger Bang (Live),2021-07-09,0pi47jS9mOcEdd5roll4cA,0.455,0.357,0.994,0.855,0.8,-3.642,0.187,136.054,0.146,16,190080,False,instrumentalness
+I Just Want To Make Love To You - Saturday Club / 1964,On Air (Deluxe),2017-12-01,6oAfRCJrtwoaAS8UySiTo7,0.0193,0.511,0.779,0.719,0.273,-7.122,0.0426,125.223,0.752,15,136000,False,instrumentalness
+Hitch Hike - Remastered 2002,Out Of Our Heads (UK),1965-07-30,02oaGudlkBJXYqH8LBPxbZ,0.34,0.747,0.835,0.733,0.0281,-7.04,0.0324,123.456,0.963,15,146186,False,instrumentalness
+Midnight Rambler - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,6x0uoqrntrFEMxlceTJ7Ns,0.412,0.334,0.936,0.733,0.969,-5.637,0.0859,143.72,0.393,15,733680,False,instrumentalness
+Walking The Dog - Saturday Club / 1964,On Air (Deluxe),2017-12-01,5lDoJcPX7dCfzQW31x8fLP,0.0514,0.692,0.52,0.687,0.137,-11.649,0.0386,126.58,0.695,15,179253,False,instrumentalness
+I Wanna Be Your Man - Saturday Club / 1964,On Air (Deluxe),2017-12-01,6vQ7eX1j49Bb8hucYXGeL8,0.118,0.512,0.763,0.756,0.0983,-6.923,0.0496,82.189,0.695,15,112746,False,instrumentalness
+I'm Alright - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,3YDCIgxHxZYMD3FpK7vDqy,0.159,0.446,0.979,0.668,0.833,-6.229,0.113,117.201,0.299,15,135040,False,instrumentalness
+Summer Romance,Emotional Rescue,1980-06-20,0qqeOcdodAQuwTsIIejkqP,0.0524,0.359,0.922,0.486,0.297,-8.065,0.106,167.926,0.68,15,195973,False,instrumentalness
+Outro - Star Spangled Banner - Live / Remastered 2009,Still Life,1982-06-01,3HrKFXlEeZBhp5DIZCrUH3,0.865,0.153,0.989,0.941,0.962,-4.348,0.19,134.689,0.0369,15,48266,False,instrumentalness
+Little Red Rooster - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,38v7hBaLB8aYABWXEYBr0U,0.00712,0.44,0.918,0.82,0.767,-5.533,0.0788,115.799,0.436,15,155600,False,instrumentalness
+Off The Hook - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,27E1BXHUR9KgGzUZ4PQPxh,0.0218,0.444,0.933,0.928,0.916,-5.228,0.0733,76.873,0.533,15,147040,False,instrumentalness
+Dancing With Mr D,Goats Head Soup,1973-08-31,6Kr0vqJm3z7TSSSXPEOzYu,0.338,0.581,0.809,0.704,0.0561,-9.05,0.0321,105.625,0.932,15,293093,False,instrumentalness
+It Must Be Hell,Undercover,1983-11-07,4NzaiJ4seaVHFREN51oTiR,0.16,0.624,0.775,0.714,0.38,-9.074,0.0436,114.447,0.82,14,304266,False,instrumentalness
+All The Way Down,Undercover,1983-11-07,49faFxZuSPXOt1GB18oJi0,0.213,0.578,0.861,0.804,0.426,-9.917,0.0578,142.874,0.778,14,192760,False,instrumentalness
+Everybody Needs Somebody To Love (Finale) - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,0gBs7Dk1Xp7TTltv5U4BWs,0.107,0.225,0.977,0.714,0.746,-5.949,0.33,88.765,0.193,14,246000,False,instrumentalness
+Not Fade Away - Live,got LIVE if you want it!,1966-12-10,0M7e8MUFjyFkVLuRmjTiql,0.000866,0.511,0.955,0.86,0.814,-8.749,0.0945,122.436,0.525,14,123680,False,instrumentalness
+Instrumental 2 - Live,Live At The Checkerboard Lounge,2012-07-09,6AlD6jYja3dMzzWYahm5rS,0.0443,0.517,0.978,0.846,0.882,-7.116,0.13,138.562,0.263,14,263773,False,instrumentalness
+Coming Down Again,Goats Head Soup,1973-08-31,73sNL3SolF2KOluj87XHew,0.83,0.464,0.302,0.779,0.103,-13.082,0.0267,73.047,0.374,14,354066,False,instrumentalness
+Where The Boys Go,Emotional Rescue,1980-06-20,1Kl7irmZwjmB89EhxUQbWE,0.251,0.527,0.965,0.758,0.683,-9.225,0.0744,160.65,0.81,14,209133,False,instrumentalness
+Pain In My Heart - Live In Ireland / 1965,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,2oKcd4rsBp4535g7bAtAef,0.187,0.185,0.911,0.883,0.556,-6.811,0.0719,183.61,0.26,14,123506,False,instrumentalness
+Jumpin’ Jack Flash - Live,Voodoo Lounge Uncut (Live),2018-11-16,0i7uGz7kX7ISHbOWW3CeUB,0.124,0.3,0.947,0.647,0.95,-5.257,0.102,139.709,0.402,14,374585,False,instrumentalness
+Start Me Up - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,4wdy9PVShHKMKIsxSvPrxW,0.24,0.44,0.971,0.731,0.914,-4.499,0.0777,131.139,0.698,14,244520,False,instrumentalness
+Hide Your Love,Goats Head Soup,1973-08-31,2wT0VXLNER5sWUwVr45rp3,0.676,0.549,0.561,0.823,0.216,-11.234,0.0273,109.596,0.771,13,252440,False,instrumentalness
+Pretty Beat Up,Undercover,1983-11-07,068K0Pa4o6aWZzefuxJ8v3,0.0946,0.581,0.848,0.674,0.209,-9.881,0.0354,97.352,0.734,13,244133,False,instrumentalness
+Ain't That Loving You Baby - Rhythm And Blues / BBC World Service / 1964,On Air (Deluxe),2017-12-01,3NWMRMD2Y04M11IKxmQ4Ew,0.208,0.708,0.636,0.551,0.0777,-8.577,0.154,82.327,0.749,13,115986,False,instrumentalness
+Key To The Highway - Piano Instrumental,Dirty Work,1986-03-24,5vaIQW6IAjNo5tUoZGTiKE,0.994,0.563,0.141,0.872,0.134,-24.351,0.099,101.793,0.458,12,33466,False,instrumentalness
+Can You Hear The Music,Goats Head Soup,1973-08-31,3OgYmmZCH7S22AH2JTr7VV,0.537,0.294,0.565,0.512,0.369,-10.97,0.0317,72.666,0.515,11,331066,False,instrumentalness
+Charlie's Intro To Little Red Rooster - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,4HvV7Xp4Qwg0pYQXFILFrC,0.843,0.266,0.961,0.991,0.909,-11.914,0.335,69.859,0.0321,11,32946,False,instrumentalness
+I'm Moving On - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,69Itw6gU1AbVONAl78RLlI,0.00343,0.124,0.917,0.945,0.62,-4.829,0.093,163.352,0.304,11,148560,False,instrumentalness
+Ventilator Blues,Exile On Main Street (Bonus Track Version),1972-05-12,0l8fJO050thh71O5vZdBzE,0.6,0.618,0.678,0.723,0.501,-5.199,0.0316,133.453,0.79,8,204573,False,instrumentalness
+"Not Fade Away - Live In Lisbon, Portugal / 1995",Stripped,1995-01-13,58lFbyJL8Jv22av1DBjFY9,0.142,0.664,0.796,0.466,0.461,-8.985,0.0309,95.447,0.969,7,186240,False,instrumentalness
+"Start Me Up - Live At Death Valley Stadium, South Carolina, USA / 1989",Flashpoint,1991-04-02,7K6bQLrm4IisLly122cNRW,0.138,0.548,0.988,0.522,0.986,-5.896,0.0629,132.508,0.826,7,234106,False,instrumentalness
+All Down The Line,Exile On Main Street (Bonus Track Version),1972-05-12,4EbFfWTaD6itVk7CRNuLpX,0.39,0.519,0.973,0.978,0.784,-3.044,0.0562,140.221,0.822,7,229493,False,instrumentalness
+Jumpin' Jack Flash - Live,Get Yer Ya Yas Out,1970-09-04,2YCXpcpj2DFEbT9P3GnQnZ,0.0817,0.425,0.867,0.64,0.974,-11.277,0.0494,137.754,0.657,7,242626,False,instrumentalness
+"Paint It Black - Live At Olympic Stadium, Barcelona, Spain / 1990",Flashpoint,1991-04-02,35f2GChoxechEBtARjjJ7X,0.0144,0.283,0.927,0.793,0.985,-7.551,0.0724,160.68,0.37,7,242306,False,instrumentalness
+Happy,Exile On Main Street (Bonus Track Version),1972-05-12,2fDudMczskgIRmjGWoMTC0,0.361,0.555,0.897,0.94,0.536,-3.469,0.0293,131.712,0.965,7,184626,False,instrumentalness
+Rip This Joint,Exile On Main Street (Bonus Track Version),1972-05-12,11z543x5tM4U0H27bxALNJ,0.118,0.548,0.952,0.837,0.301,-2.958,0.0422,98.04,0.906,7,143293,False,instrumentalness
+(I Can't Get No) Satisfaction - Saturday Club / 1965,On Air,2017-12-01,1CEXp91Noj1h1lHBDP7xkQ,0.00101,0.649,0.744,0.616,0.0758,-8.279,0.0279,136.687,0.77,6,226880,False,instrumentalness
+Susie Q,12 x 5,1964-10-17,0AtZ9UuJXT6mXU41sx3iee,0.0396,0.506,0.773,0.689,0.226,-9.034,0.0335,80.84,0.967,6,110960,False,instrumentalness
+Jumpin' Jack Flash - Live,Love You Live (Remastered),1977-09-23,255l1sUvc6IJOMOjZ1fuTd,0.324,0.27,0.98,0.708,0.986,-7.661,0.184,154.983,0.358,6,242600,False,instrumentalness
+"Street Fighting Man - Live At Twickenham, England / 2003",Live Licks,2004-11-01,5ukQj9oDlYn4mvYDk6ph6P,0.0556,0.236,0.987,0.534,0.988,-3.613,0.197,143.969,0.173,6,223466,False,instrumentalness
+Shake Your Hips,Exile On Main Street (Bonus Track Version),1972-05-12,72Wm82ZBM0t5Det0o11Jya,0.69,0.374,0.787,0.831,0.203,-7.054,0.0617,180.496,0.763,6,179000,False,instrumentalness
+Tumbling Dice,Exile On Main Street (Bonus Track Version),1972-05-12,15rhIoRad6E7AIqnoS7X49,0.5,0.615,0.91,0.511,0.281,-4.248,0.0347,111.013,0.77,5,226333,False,instrumentalness
+"Intro: Excerpt From ""Fanfare For The Common Man"" - Live",Love You Live (Remastered),1977-09-23,3XMThHmCx14P8Kyr5rt8vf,0.248,0.107,0.995,0.966,0.77,-13.046,0.0821,169.789,0.0187,5,83666,False,instrumentalness
+Torn And Frayed,Exile On Main Street (Bonus Track Version),1972-05-12,19oI9dRZC48Rd8TCnmNFMI,0.664,0.454,0.766,0.904,0.594,-3.862,0.0272,90.677,0.776,5,257240,False,instrumentalness
+Let It Loose,Exile On Main Street (Bonus Track Version),1972-05-12,4dcrRMhIb5lm9dIQ8Wfjos,0.869,0.352,0.656,0.8,0.221,-5.721,0.0289,76.121,0.363,5,317173,False,instrumentalness
+Turd On The Run,Exile On Main Street (Bonus Track Version),1972-05-12,3MCzqwpG9aIo810TVmYXfG,0.65,0.517,0.781,0.977,0.341,-6.33,0.0405,119.364,0.742,4,157173,False,instrumentalness
+"Brown Sugar - Live At Stadia Delle Alpi, Turin, Italy / 1990",Flashpoint,1991-04-02,17SUs2sg8AI9dLrmvCq9CR,0.0386,0.47,0.978,0.498,0.958,-6.185,0.0673,141.405,0.584,4,250440,False,instrumentalness
+Street Fighting Man - Live,Get Yer Ya Yas Out,1970-09-04,2OHYAz34KXZGyNdj3pMjD2,0.000207,0.275,0.86,0.779,0.937,-8.33,0.0345,134.944,0.596,4,243506,False,instrumentalness
+Little Queenie - Live,Get Yer Ya Yas Out,1970-09-04,59E1QUCIcKkRgIM2X9RWqa,0.213,0.508,0.763,0.838,0.843,-9.501,0.0402,124.948,0.962,4,273133,False,instrumentalness
+I Just Want To See His Face,Exile On Main Street (Bonus Track Version),1972-05-12,04LslKJrIMBfvFdcHaZFYX,0.689,0.654,0.542,0.584,0.204,-14.696,0.0419,78.015,0.877,4,172626,False,instrumentalness
+Gomper,Their Satanic Majesties Request,1967-12-08,7p9Iqp5RIeyytctcTcnXAL,0.748,0.369,0.535,0.609,0.158,-12.389,0.0359,127.239,0.263,4,308840,False,instrumentalness
+The Spider And The Fly - Yeah Yeah / 1965,On Air,2017-12-01,74zFAG85kiVy31xUqowR9D,0.0301,0.683,0.633,0.782,0.109,-10.846,0.109,111.757,0.892,4,194160,False,instrumentalness
+Title 5,Exile On Main Street (Bonus Track Version),1972-05-12,7xdatW3vTtUVz8EyacuNE4,0.473,0.466,0.831,0.831,0.322,-7.849,0.0343,95.548,0.885,4,107426,False,instrumentalness
+Stop Breaking Down,Exile On Main Street (Bonus Track Version),1972-05-12,6bA3OlUTsonFP7skcDy1Xt,0.509,0.522,0.891,0.908,0.111,-4.085,0.0322,104.411,0.91,4,274773,False,instrumentalness
+Pain In My Heart,Now!,1965-02-13,0NoJ36iS1CF2pwWPmmMFSq,0.565,0.48,0.586,0.77,0.124,-8.913,0.0398,177.038,0.758,3,131533,False,instrumentalness
+All Down The Line - Alternate Take - Bonus Track,Exile On Main Street (Bonus Track Version),1972-05-12,3nkewnGp5sU7T0cucVkzyv,0.00207,0.366,0.932,0.817,0.161,-5.34,0.0343,149.044,0.905,3,249893,False,instrumentalness
+Not Fade Away - Mono Version,England's Newest Hit Makers,1964-05-30,3T8JLJeS91ARf9ASSNh7Tp,0.00495,0.755,0.831,0.498,0.11,-10.009,0.0484,113.311,0.848,3,107733,False,instrumentalness
+I'm Alright - Live,Out Of Our Heads (US Sequence),1965-07-30,0QhEWoZbZO8pOOd6Z9qkX3,5.48e-05,0.428,0.818,0.587,0.952,-9.755,0.0458,118.908,0.598,3,143600,False,instrumentalness
+One More Try - Remastered 2002,Out Of Our Heads (US Sequence),1965-07-30,70wkGOc0WX6Tn8EZ9Ud6La,0.0328,0.542,0.793,0.591,0.299,-9.466,0.0543,177.781,0.939,3,118026,False,instrumentalness
+Fannie Mae - Saturday Club / 1965,On Air,2017-12-01,6OV7AFZ2xXU4hKyOnZe5Sn,0.0225,0.543,0.7,0.867,0.108,-8.144,0.0306,142.334,0.944,3,131826,False,instrumentalness
+Down The Road Apiece - Top Gear / 1965,On Air,2017-12-01,4Z7uQ0Yk8x2itRiND63i8T,0.0419,0.618,0.812,0.809,0.0465,-8.318,0.0598,85.983,0.881,3,121786,False,instrumentalness
+"Mercy, Mercy - Yeah Yeah / 1965",On Air,2017-12-01,1iOVPVxuXZzKqmLDSahphI,0.0495,0.711,0.636,0.674,0.0806,-9.935,0.0457,117.807,0.784,3,174653,False,instrumentalness
+2120 South Michigan Avenue - Mono Version,12 x 5,1964-10-17,6fCmEdlr9MfiRZ7uN7BhVL,0.00135,0.612,0.584,0.84,0.084,-13.197,0.0302,147.953,0.825,2,218506,False,instrumentalness
+Continental Drift - Live / Remastered 2009,Flashpoint,1991-04-02,5GIwfhhHnatbkjKcygmF6C,0.046,0.272,0.774,0.657,0.7,-17.577,0.052,108.291,0.15,2,28266,False,instrumentalness
+Gotta Get Away - Mono Version,December's Children (and everybody's),1965-12-04,2WV7nq25U4tYW67WmVgJTt,0.0669,0.668,0.557,0.65,0.191,-8.208,0.032,112.932,0.712,2,126693,False,instrumentalness
+Gotta Get Away - Mono Version,Out Of Our Heads (UK Sequence),1965-07-30,5nMjMXkemxQK2YXgmurg1T,0.0643,0.668,0.556,0.547,0.216,-8.582,0.0365,112.93,0.711,2,126520,False,instrumentalness
+Down Home Girl,Now!,1965-02-13,11dJAq9SPIHeXKxmuDEYO0,0.633,0.662,0.777,0.679,0.0903,-8.135,0.0269,115.786,0.822,2,251733,False,instrumentalness
+Hitch Hike - Remastered 2002,Out Of Our Heads (US Sequence),1965-07-30,1Ua7qFLlb70QASDOiJFCDN,0.29,0.745,0.851,0.71,0.031,-6.931,0.0327,123.515,0.964,2,145666,False,instrumentalness
+Oh Baby (We Got A Good Thing Goin') - Remastered 2002,Now!,1965-02-13,2cErrLqmekBoFhXXFNHTLQ,0.494,0.637,0.756,0.589,0.853,-8.645,0.0301,141.535,0.966,2,128039,False,instrumentalness
+Route 66 - Live,December's Children (and everybody's),1965-12-04,6sEu6DDANBazrg5uq54x5J,0.0191,0.323,0.965,0.9,0.406,-6.56,0.0891,84.81,0.499,1,159293,False,instrumentalness
+I Just Want To Make Love To You - Mono Version,England's Newest Hit Makers,1964-05-30,0SZerYLgq7McmyHC2m0CYY,0.215,0.659,0.825,0.876,0.353,-8.865,0.102,126.841,0.601,1,137706,False,instrumentalness
+I'm Moving On - Live,December's Children (and everybody's),1965-12-04,5bLGvAYHWkqnWowp6vcJDM,0.00945,0.322,0.862,0.832,0.249,-5.694,0.0474,84.522,0.504,1,133733,False,instrumentalness
+Hitch Hike - Remastered 2002,Out Of Our Heads (UK Sequence),1965-07-30,62AB7wGa3qGyX0iV0hQDt2,0.31,0.744,0.844,0.684,0.0289,-7.036,0.0327,123.497,0.963,1,145413,False,instrumentalness
+Continental Drift - Live,Flashpoint,1991-04-02,6fmxr9Wui3uYW7GtpscwDx,0.0195,0.296,0.735,0.725,0.692,-22.301,0.0469,107.788,0.2,0,27693,False,instrumentalness
+Honest I Do,England's Newest Hit Makers,1964-05-30,6DhWfyUAX17MrrQAlgbsHw,0.136,0.628,0.368,0.538,0.17,-10.734,0.108,87.178,0.47,0,129826,False,instrumentalness
+Not Fade Away - Live,Got Live if you want it!,1966-12-10,3tdCzIQ5K0jT6Z1FGU27uJ,0.000754,0.515,0.948,0.89,0.814,-8.779,0.0997,122.533,0.542,0,123666,False,instrumentalness
+Now I've Got A Witness,England's Newest Hit Makers,1964-05-30,2bvnvEYim16pZudO7fibe8,0.0441,0.672,0.685,0.913,0.238,-7.793,0.0292,97.854,0.95,0,151840,False,instrumentalness
+Show Intro - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,4Z2rzPq2mZk7dRdWWE0oo4,0.852,0.172,0.87,0.875,0.708,-18.104,0.0506,128.417,0.0,0,21000,False,instrumentalness
+Lady Jane - Mono Version,Aftermath,1966-04-15,19kAUW6NMzgDHKT19s7782,0.516,0.6,0.303,0.000123,0.0832,-16.408,0.0318,102.998,0.31,44,188080,False,loudness
+Lady Jane - Mono Version,Flowers,1967-06-26,2VivGronbgpCv8BW4kq7mw,0.546,0.336,0.315,8.95e-05,0.0809,-16.325,0.0427,204.996,0.293,27,187506,False,loudness
+Lady Jane - Mono Version,Aftermath (UK Version),1966-04-15,5816DTCbYrkQpUNBoeupvT,0.572,0.334,0.312,2.76e-05,0.0749,-16.304,0.0454,205.687,0.296,25,188040,False,loudness
+Interlude A La El Hopo / Loveliest Night Of The Year,Jamming With Edward,1972-01-07,7hnehY2vACxvGRAarPmK1o,0.663,0.421,0.252,0.193,0.143,-21.548,0.0495,82.951,0.495,16,125982,False,loudness
+Key To The Highway - Piano Instrumental/Remastered 2009,Dirty Work (Remastered 2009),1986-03-24,3As7nxoMY2gOMxVdksIU2F,0.994,0.46,0.142,0.827,0.138,-24.408,0.173,154.259,0.444,16,33466,False,loudness
+Key To The Highway - Piano Instrumental,Dirty Work,1986-03-24,5vaIQW6IAjNo5tUoZGTiKE,0.994,0.563,0.141,0.872,0.134,-24.351,0.099,101.793,0.458,12,33466,False,loudness
+The Worst - Live,Voodoo Lounge Uncut (Live),2018-11-16,4x37eaT7Szgy16oIPidPxI,0.541,0.317,0.397,0.00558,0.438,-16.556,0.0516,139.798,0.345,10,206991,False,loudness
+Lady Jane - Stereo Version,Aftermath (UK Version),1966-04-15,4wBUcfAyg3R5WvgFq82MTd,0.536,0.337,0.308,4.12e-05,0.0845,-16.301,0.0439,204.801,0.322,8,188040,False,loudness
+Lady Jane - Stereo Version,Flowers,1967-06-26,1VsrEodwFkiqLrotIw9ls4,0.52,0.603,0.303,9.61e-05,0.0913,-16.415,0.0323,103.131,0.322,8,187466,False,loudness
+Love In Vain - Live,Get Yer Ya Yas Out,1970-09-04,4eytHgouVLrqBncnaQqpVF,0.42,0.429,0.272,0.143,0.904,-16.572,0.0297,78.704,0.177,5,296466,False,loudness
+Continental Drift - Live / Remastered 2009,Flashpoint,1991-04-02,5GIwfhhHnatbkjKcygmF6C,0.046,0.272,0.774,0.657,0.7,-17.577,0.052,108.291,0.15,2,28266,False,loudness
+Continental Drift - Live,Flashpoint,1991-04-02,6fmxr9Wui3uYW7GtpscwDx,0.0195,0.296,0.735,0.725,0.692,-22.301,0.0469,107.788,0.2,0,27693,False,loudness
+Show Intro - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,4Z2rzPq2mZk7dRdWWE0oo4,0.852,0.172,0.87,0.875,0.708,-18.104,0.0506,128.417,0.0,0,21000,False,loudness
+Sympathy For The Devil - 50th Anniversary Edition,Beggars Banquet (50th Anniversary Edition),1968-12-06,1Ud6moTC0KyXMq1Oxfien0,0.518,0.702,0.668,0.0,0.0588,-9.237,0.214,116.063,0.561,73,378146,False,speechiness
+Sympathy For The Devil,Beggars Banquet,1968-12-06,7lJt7vBDNUO8Mv8uELND1H,0.604,0.658,0.675,0.0,0.0428,-10.967,0.242,115.574,0.587,45,377760,False,speechiness
+Undercover (Of The Night) - Remastered 2009,Undercover (2009 Re-Mastered),1983-11-07,4N8oxV3hvn8Efyo4yxp3LG,0.0272,0.603,0.973,0.00731,0.472,-4.454,0.176,122.756,0.408,42,273493,False,speechiness
+Scarlet,Goats Head Soup (Deluxe),2020-09-04,3vSXV46H3bSmJHX79NV9Zu,0.0431,0.482,0.948,0.369,0.252,-3.389,0.179,172.674,0.644,37,224293,False,speechiness
+Lies - Remastered,Some Girls,1978-06-09,7hDQerpfE5FgYtVKEVemwl,0.437,0.382,0.997,0.95,0.617,-1.568,0.188,162.428,0.563,37,191266,False,speechiness
+If You Can't Rock Me - Live,Licked Live In NYC,2022-06-10,1agTQzOTUnGNggyckEqiDH,0.567,0.369,0.985,0.000107,0.895,-5.535,0.193,132.994,0.147,32,305880,False,speechiness
+Jumpin' Jack Flash - Live / Remastered 2009,Flashpoint,1991-04-02,0jeT8eiMtHs3NkgJP8tgTM,0.169,0.27,0.992,0.193,0.982,-3.098,0.215,148.846,0.284,29,299200,False,speechiness
+(I Can't Get No) Satisfaction - Live / Remastered 2009,Flashpoint,1991-04-02,4IvPCIOlMOAcGMMqhorHy2,0.0626,0.363,0.997,0.0916,0.511,-3.797,0.195,150.87,0.384,28,368400,False,speechiness
+Summer Romance - Remastered,Emotional Rescue (2009 Re-Mastered),1980-06-20,4HIBR3sCOKkYvqKgPONM4A,0.073,0.334,0.975,0.269,0.291,-3.134,0.188,170.035,0.62,27,196173,False,speechiness
+Band Introductions - Live,Licked Live In NYC,2022-06-10,06KxbhUQxW94BdHvjjvQzp,0.732,0.262,0.939,0.00952,0.936,-9.269,0.222,79.42,0.0317,27,284426,False,speechiness
+Little Red Rooster - Live / Remastered 2009,Flashpoint,1991-04-02,3syrHRkRz9glCBU4VifVcA,0.221,0.273,0.936,0.112,0.977,-4.675,0.213,209.566,0.375,26,315200,False,speechiness
+On With The Show - Remastered 2017 / Stereo,Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered),1967-12-08,70YcKr7MG9Cab04vabNQzb,0.659,0.51,0.882,4.71e-06,0.38,-10.384,0.193,114.386,0.653,25,221386,False,speechiness
+(I Can't Get No) Satisfaction - Live,Bridges To Buenos Aires (Live),2019-11-08,5Rim1P0I7PMI7Pn74Y9KaV,0.0215,0.294,0.986,0.0503,0.588,-5.094,0.206,142.591,0.0918,24,320440,False,speechiness
+Let's Spend The Night Together - Live,Bridges To Buenos Aires (Live),2019-11-08,6mL5Zm8S6yId9UxwwtOKLR,0.108,0.487,0.983,3.01e-05,0.944,-4.454,0.251,143.53,0.287,24,245493,False,speechiness
+Undercover (Of The Night),Honk (Deluxe),2019-04-19,2umCeOgJPgmfuEONmZa2lc,0.0259,0.603,0.968,0.00772,0.375,-5.021,0.178,122.732,0.375,23,273426,False,speechiness
+Like A Rolling Stone - Live,Bridges To Buenos Aires (Live),2019-11-08,3X4U8XtqiUBsFLHFOTGpv9,0.106,0.303,0.955,0.000564,0.906,-4.232,0.188,107.591,0.307,23,385386,False,speechiness
+It's Only Rock 'n' Roll (But I Like It) - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,7mDFZWcMjo6UW0mexukXfG,0.166,0.372,0.982,0.00569,0.973,-2.956,0.165,140.288,0.488,23,294266,False,speechiness
+Fiji Jim,Tattoo You (Super Deluxe),2021-10-22,7jq7FzX54N5h1swZhn4bt9,0.0247,0.33,0.96,0.00585,0.044,-1.014,0.204,179.524,0.624,23,240466,False,speechiness
+Sympathy For The Devil - Live,Bridges To Buenos Aires (Live),2019-11-08,68jFcL2HZImEbSWIboVn9Y,0.24,0.583,0.982,0.000667,0.973,-4.429,0.166,109.012,0.384,22,491440,False,speechiness
+Miss You - Live,Bridges To Buenos Aires (Live),2019-11-08,0PCFGGlFATjPB9YhDw0fxR,0.113,0.477,0.933,0.0107,0.956,-4.95,0.22,119.985,0.396,22,593853,False,speechiness
+Around And Around - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,1GdvXnOtJfvR8SLPcJQjyw,0.674,0.285,0.895,0.315,0.917,-5.067,0.168,196.231,0.715,22,248226,False,speechiness
+Miss You - Live,Bridges To Bremen (Live),2019-06-21,1xELymSaqrPQjF1HUlCH84,0.18,0.429,0.919,4.07e-06,0.796,-4.904,0.182,116.807,0.31,21,981866,False,speechiness
+Everybody Needs Somebody To Love - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,19SE6FaYLOADfDB58rZ2VC,0.344,0.265,0.975,1.6e-05,0.85,-2.452,0.208,187.299,0.215,21,394306,False,speechiness
+Undercover Of The Night - Live,Steel Wheels Live,2020-09-25,051D5qOJnz0uPpEMjO2sp9,0.0815,0.347,0.98,0.0,0.974,-4.62,0.201,124.126,0.211,21,260533,False,speechiness
+Dirty Work - Remastered,Dirty Work (Remastered 2009),1986-03-24,5CVpTEIGs7Vp28QTcnW7Nm,0.0779,0.429,0.974,0.00724,0.0808,-4.027,0.178,175.237,0.609,20,232866,False,speechiness
+Shattered - Live / Remastered 2009,Still Life,1982-06-01,75fihrEuGGxqiduKmnVMp3,0.163,0.418,0.985,0.0136,0.998,-2.902,0.16,161.333,0.502,20,250960,False,speechiness
+Happy - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,2IzVXstrSs8uOxLoN3R6eg,0.0539,0.33,0.992,1.86e-06,0.941,-2.795,0.222,153.543,0.427,20,175066,False,speechiness
+Cherry Oh Baby,Black And Blue,1976-04-23,4wiGMs582GPsbqkvOH8Sso,0.266,0.828,0.29,0.0147,0.0598,-14.174,0.181,144.203,0.963,20,233040,False,speechiness
+It's Only Rock 'N' Roll (But I Like It) - Live,Bridges To Buenos Aires (Live),2019-11-08,6149fevyO2eTIKQunFNEmq,0.0782,0.366,0.981,0.00269,0.853,-4.416,0.174,142.269,0.368,20,279120,False,speechiness
+Let It Rock - Live At University Of Leeds / 1971,Sticky Fingers (Super Deluxe),1971-04-23,1RF8q5ZoCfawjaHXbT01Ln,0.179,0.409,0.977,0.0733,0.517,-4.599,0.226,142.349,0.494,20,193613,False,speechiness
+Shattered - Live,Some Girls: Live In Texas '78,2011-11-21,1Gf6gJySe8CbJyuwH0kRAM,0.00235,0.272,0.99,0.16,0.983,-5.202,0.173,160.735,0.429,20,284946,False,speechiness
+Paint It Black - Live,Steel Wheels Live,2020-09-25,2EAHchNVmNzKVnrUItEUgQ,0.0041,0.208,0.981,1.76e-05,0.939,-4.233,0.207,166.042,0.126,19,230493,False,speechiness
+Route 66 - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,6asoECG1bujhCBItWqjYUR,0.37,0.416,0.977,0.0739,0.905,-5.239,0.219,144.845,0.387,19,193573,False,speechiness
+Jumpin' Jack Flash - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,7gsbOwZoDNVgZbkm8sRvxV,0.409,0.246,0.994,0.757,0.987,-3.41,0.228,154.699,0.317,19,242360,False,speechiness
+Jumpin' Jack Flash - Live At University Of Leeds / 1971,Sticky Fingers (Super Deluxe),1971-04-23,3QO9zwOwAkixIPEiN8s0XH,0.25,0.434,0.963,0.106,0.987,-6.558,0.186,132.382,0.399,19,239226,False,speechiness
+Flip The Switch - Live,Bridges To Buenos Aires (Live),2019-11-08,6ENz8cHpX4wfp4ODm9OfVI,0.0827,0.335,0.972,0.00372,0.931,-4.931,0.208,152.321,0.337,19,243906,False,speechiness
+Shattered - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,2GUGfCkxUubz7arI3nX54i,0.376,0.362,0.985,0.501,0.935,-6.276,0.163,162.353,0.289,19,281066,False,speechiness
+Let's Spend The Night Together - Live,Bridges To Bremen (Live),2019-06-21,7kTMLoKVsREwRD4npqdvxh,0.196,0.446,0.957,0.0,0.683,-5.113,0.244,140.87,0.397,19,274786,False,speechiness
+Midnight Rambler - Live,A Bigger Bang (Live),2021-07-09,1oCKC9PO08c1d9GhRlRtxc,0.495,0.291,0.955,0.566,0.817,-5.177,0.192,144.032,0.255,19,734706,False,speechiness
+Happy - Live,Some Girls: Live In Texas '78,2011-11-21,0RoQbvPKZOZrAbHfvUubf0,0.00686,0.171,0.989,0.000475,0.904,-4.568,0.164,157.806,0.382,18,192746,False,speechiness
+Black Limousine - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,1RJVKm42E1FDiEHDdRirUK,0.292,0.307,0.963,0.927,0.994,-6.042,0.217,120.546,0.528,18,231400,False,speechiness
+Saint Of Me - Live,Bridges To Bremen (Live),2019-06-21,58csU3U0rIqEceSdUMVHLS,0.323,0.279,0.967,0.0067,0.836,-4.809,0.28,129.096,0.168,18,414613,False,speechiness
+Bitch - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,7xpqm6MDf9RsHQnelJPIVM,0.457,0.367,0.979,0.219,0.928,-3.459,0.189,141.009,0.331,18,302586,False,speechiness
+Had It With You - Remastered,Dirty Work (Remastered 2009),1986-03-24,0WnserBEnvqLnjt0JbyhCN,0.38,0.506,0.985,0.377,0.0744,-2.893,0.223,169.355,0.444,18,198266,False,speechiness
+Neighbours - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,3Sl3T2oviTzPcy8doaXgBC,0.0462,0.292,0.985,0.0259,0.969,-2.458,0.24,156.543,0.206,18,220560,False,speechiness
+Respectable - Live,Some Girls: Live In Texas '78,2011-11-21,1GRZvqBymMRexC6iuZoyja,0.00517,0.227,0.991,0.16,0.99,-5.166,0.254,167.919,0.167,18,203266,False,speechiness
+Bitch - Live At University Of Leeds / 1971,Sticky Fingers (Super Deluxe),1971-04-23,6Iyyk6kaHOveBrLDsqzkCw,0.22,0.413,0.925,0.0125,0.542,-5.433,0.286,142.767,0.467,17,324813,False,speechiness
+Had It With You,Dirty Work,1986-03-24,7iEFja3s31vhM0KVKqL3xO,0.39,0.512,0.986,0.59,0.0597,-2.897,0.229,169.018,0.398,17,198266,False,speechiness
+Flip The Switch - Live,Bridges To Bremen (Live),2019-06-21,604Gd9znHCiuPEw3NlBOYr,0.0868,0.369,0.977,0.000621,0.967,-4.552,0.306,148.352,0.387,17,273573,False,speechiness
+You Got Me Rocking - Live,Bridges To Buenos Aires (Live),2019-11-08,0yprXO8L6NyKu2AIl5ck8C,0.0199,0.342,0.976,0.00863,0.967,-3.456,0.195,137.945,0.141,17,193560,False,speechiness
+Little Queenie - Live,Bridges To Buenos Aires (Live),2019-11-08,22dtYIbap7KXxccSXqjksD,0.0904,0.388,0.987,0.0411,0.988,-3.972,0.255,144.367,0.246,17,258573,False,speechiness
+Not Fade Away - Live,Voodoo Lounge Uncut (Live),2018-11-16,1EdD9H50BlPO8eHD7oEXFC,0.409,0.393,0.939,0.544,0.965,-8.853,0.271,101.056,0.446,17,258783,False,speechiness
+Paint It Black - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,44Bhe5iLqW9OmHwqs6PJlK,0.428,0.224,0.969,0.000178,0.944,-5.205,0.22,156.751,0.137,17,539026,False,speechiness
+When The Whip Comes Down - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,3f94fBYgfxLHqAniBXLxOe,0.0196,0.304,0.995,0.0127,0.943,-2.077,0.215,149.456,0.182,16,268506,False,speechiness
+It's All Over Now - Live,Totally Stripped - Amsterdam (Live),2016-06-03,3FhKRkEcSpQfvTqDd6BoL2,0.0197,0.182,0.972,0.000106,0.865,-5.927,0.191,190.049,0.173,16,229853,False,speechiness
+Dirty Work,Dirty Work,1986-03-24,07FifLO7Pnzf9NKIHhPfLa,0.0764,0.432,0.974,0.00285,0.0903,-4.048,0.178,175.257,0.652,16,232866,False,speechiness
+Key To The Highway - Piano Instrumental/Remastered 2009,Dirty Work (Remastered 2009),1986-03-24,3As7nxoMY2gOMxVdksIU2F,0.994,0.46,0.142,0.827,0.138,-24.408,0.173,154.259,0.444,16,33466,False,speechiness
+Lies - Remastered,Some Girls (Deluxe Version),1978-06-09,6362zAWHGgbrQaoeCFZpuO,0.437,0.382,0.997,0.95,0.617,-1.568,0.188,162.428,0.563,16,191266,False,speechiness
+Get Off Of My Cloud - Live,A Bigger Bang (Live),2021-07-09,0pi47jS9mOcEdd5roll4cA,0.455,0.357,0.994,0.855,0.8,-3.642,0.187,136.054,0.146,16,190080,False,speechiness
+Rocks Off - Live,Voodoo Lounge Uncut (Live),2018-11-16,2ec5qFvc6NV42jpti6ZXIJ,0.393,0.286,0.935,0.00439,0.808,-6.651,0.323,148.049,0.279,15,326277,False,speechiness
+You Got Me Rocking - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,0jCvKMfgaIARwEZzO0tjPs,0.0935,0.377,0.962,0.0066,0.885,-4.787,0.161,135.163,0.319,15,228960,False,speechiness
+Saint Of Me - Live,From The Vault: No Security - San Jose 1999 (Live),2018-07-13,47jWLWOPCvw01CCLB748GF,0.268,0.33,0.949,0.0225,0.794,-4.731,0.187,127.695,0.316,15,347653,False,speechiness
+Wanna Hold You - Live,Bridges To Buenos Aires (Live),2019-11-08,184BvksyZna7EynO2ngV9h,0.0743,0.188,0.957,0.00234,0.965,-4.337,0.21,144.547,0.385,15,292853,False,speechiness
+Band Introductions - Live at Wembley Stadium 1982,Tattoo You (Super Deluxe),2021-10-22,79WmJqppHiyEeJ6S4EY4iG,0.898,0.345,0.946,0.0514,0.732,-10.683,0.425,78.893,0.0316,15,71546,False,speechiness
+Outro - Star Spangled Banner - Live / Remastered 2009,Still Life,1982-06-01,3HrKFXlEeZBhp5DIZCrUH3,0.865,0.153,0.989,0.941,0.962,-4.348,0.19,134.689,0.0369,15,48266,False,speechiness
+Everybody Needs Somebody To Love (Finale) - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,0gBs7Dk1Xp7TTltv5U4BWs,0.107,0.225,0.977,0.714,0.746,-5.949,0.33,88.765,0.193,14,246000,False,speechiness
+Live With Me - Live,Voodoo Lounge Uncut (Live),2018-11-16,3C9tsXCZkf4TN7vGypIOpc,0.328,0.333,0.944,0.00407,0.984,-8.327,0.238,150.889,0.338,14,300757,False,speechiness
+When The Whip Comes Down - Live,Bridges To Buenos Aires (Live),2019-11-08,5URzOluDlx70DRRimczvFA,0.0804,0.288,0.975,0.00139,0.955,-4.254,0.215,147.703,0.237,14,232640,False,speechiness
+Doo Doo Doo Doo Doo (Heartbreaker) - Live,Voodoo Lounge Uncut (Live),2018-11-16,2kKJunAgj3jOTICnVZIumd,0.296,0.465,0.925,0.0272,0.822,-7.673,0.165,120.153,0.402,13,240197,False,speechiness
+You Got Me Rocking - Live,Bridges To Bremen (Live),2019-06-21,2owb9R1M1XLopVP7boloee,0.232,0.383,0.953,0.0349,0.53,-3.68,0.17,136.241,0.283,13,222506,False,speechiness
+Connection - Live,Totally Stripped - Amsterdam (Live),2016-06-03,6CrK0FpVCBftYeZqM8qTgg,0.542,0.224,0.881,1.03e-05,0.943,-7.272,0.263,167.237,0.154,13,386186,False,speechiness
+Band Intros - Live,A Bigger Bang (Live),2021-07-09,5EvmBtXGyWCbubE6PqT10N,0.914,0.268,0.838,0.0504,0.953,-8.805,0.164,85.691,0.0327,13,204893,False,speechiness
+Whoopi Goldberg Intro - Live,Voodoo Lounge Uncut (Live),2018-11-16,4Q1mpLGl94xstgXlhoaCh5,0.92,0.397,0.902,0.367,0.94,-12.418,0.624,98.356,0.0394,12,102748,False,speechiness
+Who Do You Love? - Live,Voodoo Lounge Uncut (Live),2018-11-16,4FB7tn0ja29JrVcCq4Uems,0.188,0.462,0.979,0.00216,0.702,-5.804,0.166,110.203,0.427,12,261157,False,speechiness
+Before They Make Me Run - Live,Voodoo Lounge Uncut (Live),2018-11-16,24PkL1dFz5nmFoZj3hctdG,0.304,0.335,0.906,3.64e-05,0.959,-7.308,0.209,133.843,0.386,11,284364,False,speechiness
+Charlie's Intro To Little Red Rooster - Live,Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,4HvV7Xp4Qwg0pYQXFILFrC,0.843,0.266,0.961,0.991,0.909,-11.914,0.335,69.859,0.0321,11,32946,False,speechiness
+Shattered - Live,Totally Stripped - Paris (Live),2016-05-20,2dcOnD67kWP4hINld5W9k8,0.0108,0.262,0.964,0.0,0.937,-5.775,0.191,149.416,0.395,10,291546,False,speechiness
+Connection - Live,Totally Stripped - Paris (Live),2016-05-20,2CdUDqecgMMl8BEwlBKlID,0.0481,0.218,0.932,0.0,0.724,-6.556,0.183,162.855,0.289,8,241920,False,speechiness
+Happy - Live,Love You Live (Remastered),1977-09-23,6I2JNjT7F27M3KNaFKPQhq,0.0301,0.351,0.973,1.14e-06,0.955,-6.642,0.167,153.181,0.47,7,175106,False,speechiness
+Jumpin' Jack Flash - Live,Love You Live (Remastered),1977-09-23,255l1sUvc6IJOMOjZ1fuTd,0.324,0.27,0.98,0.708,0.986,-7.661,0.184,154.983,0.358,6,242600,False,speechiness
+"It's Only Rock 'n' Roll (But I Like It) - Live At Madison Square Garden, USA / 2003",Live Licks,2004-11-01,0VKtUvZA3du3PxuDev1VHA,0.152,0.382,0.979,0.00344,0.975,-3.791,0.172,140.622,0.481,6,294000,False,speechiness
+"Street Fighting Man - Live At Twickenham, England / 2003",Live Licks,2004-11-01,5ukQj9oDlYn4mvYDk6ph6P,0.0556,0.236,0.987,0.534,0.988,-3.613,0.197,143.969,0.173,6,223466,False,speechiness
+"Everybody Needs Somebody To Love - Live At The Wiltern Theatre, Los Angeles, USA / 2002",Live Licks,2004-11-01,0ewN2x6aKvnshicp5vIxUu,0.293,0.264,0.967,0.000216,0.768,-3.668,0.231,187.064,0.228,5,394733,False,speechiness
+On With The Show,Their Satanic Majesties Request,1967-12-08,5cv2QfSoP0HwHkYXkPs0b6,0.674,0.515,0.859,4.55e-06,0.389,-11.294,0.18,114.361,0.65,4,221226,False,speechiness
+"Neighbours - Live At Olympia, Paris, France / 2003",Live Licks,2004-11-01,37PYf6ADLKozohzWE0BC6D,0.0463,0.286,0.978,0.0296,0.963,-3.62,0.257,156.641,0.242,3,220866,False,speechiness
+"When The Whip Comes Down - Live At Madison Square Garden, USA / 2003",Live Licks,2004-11-01,1C3KWT6cZJRByBt6VOqlcs,0.0231,0.332,0.993,0.00645,0.957,-3.196,0.213,149.355,0.199,3,268466,False,speechiness
+Time Is On My Side - Mono Version / Organ Intro,12 X 5,1964-10-17,4s8wL4SxEmAEd6XO9mi1Pn,0.343,0.229,0.83,0.0,0.0712,-7.591,0.139,216.304,0.423,44,172693,False,tempo
+Like A Rolling Stone - Live / Remastered 2009,Stripped,1995-01-13,7tDAK4ffhC6ye1dkdObSbR,0.0176,0.214,0.943,0.000251,0.953,-3.932,0.118,205.526,0.333,43,338933,False,tempo
+Like A Rolling Stone - Live,Totally Stripped (Live),2016-06-03,0oXnmfo2kW3joSeiXoazdV,0.0784,0.181,0.873,0.0,0.764,-6.143,0.0638,203.238,0.367,34,370786,False,tempo
+Plundered My Soul,Exile On Main Street (Deluxe Version),1972-05-12,77JJtpB6aAxGI9jNTBVbWu,0.363,0.257,0.869,1.09e-05,0.45,-4.268,0.0389,201.97,0.731,32,238866,False,tempo
+Everybody Knows About My Good Thing,Blue & Lonesome,2016-12-02,1ngG1sLe4vloTtxoP92eW4,0.248,0.28,0.84,0.228,0.366,-3.497,0.0728,199.771,0.476,31,270826,False,tempo
+Beast Of Burden - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,7p0BTJ45XillX6ikIMFGGv,0.114,0.295,0.938,2.11e-05,0.927,-3.148,0.0778,197.808,0.605,29,248666,False,tempo
+"Good Times, Bad Times - Mono Version",12 X 5,1964-10-17,4RoHJvJ7MXPVj9CL15dQph,0.0791,0.438,0.517,0.00566,0.108,-9.746,0.0431,196.817,0.702,27,150160,False,tempo
+Congratulations - Mono Version,12 X 5,1964-10-17,1Uo1CbXqtNJfz6JAcaWxPE,0.16,0.394,0.562,0.0211,0.187,-9.301,0.0914,197.401,0.66,27,148773,False,tempo
+Baby Break It Down - Remastered,Voodoo Lounge (Remastered 2009),1994-07-11,0YdL0lrO1K6XAR6Q1SJ6SD,0.0859,0.427,0.756,2.97e-06,0.137,-5.732,0.0362,199.393,0.745,27,248226,False,tempo
+Lady Jane - Mono Version,Flowers,1967-06-26,2VivGronbgpCv8BW4kq7mw,0.546,0.336,0.315,8.95e-05,0.0809,-16.325,0.0427,204.996,0.293,27,187506,False,tempo
+Mannish Boy - Live At The El Mocambo 1977,Live At The El Mocambo,2022-05-13,3xS9kCa3g4XXGatRVULzTz,0.28,0.272,0.76,0.00087,0.962,-7.508,0.0526,201.585,0.782,27,362866,False,tempo
+Little Red Rooster - Live / Remastered 2009,Flashpoint,1991-04-02,3syrHRkRz9glCBU4VifVcA,0.221,0.273,0.936,0.112,0.977,-4.675,0.213,209.566,0.375,26,315200,False,tempo
+Lady Jane - Mono Version,Aftermath (UK Version),1966-04-15,5816DTCbYrkQpUNBoeupvT,0.572,0.334,0.312,2.76e-05,0.0749,-16.304,0.0454,205.687,0.296,25,188040,False,tempo
+Monkey Man - Live Licks Tour - 2009 Re-Mastered Digital Version,Live Licks,2004-11-01,5yk0ogEdLVrlGkJmYUhyXj,0.0702,0.214,0.96,0.0108,0.762,-3.1,0.0695,201.901,0.269,23,221000,False,tempo
+Mannish Boy - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,1mEX2YRSnhc08Qd5CU2SAq,0.711,0.325,0.793,0.0188,0.834,-4.962,0.0893,201.171,0.834,23,387533,False,tempo
+Around And Around - Live / Remastered 2009,Love You Live (Remastered 2009),1977-09-23,1GdvXnOtJfvR8SLPcJQjyw,0.674,0.285,0.895,0.315,0.917,-5.067,0.168,196.231,0.715,22,248226,False,tempo
+Like A Rolling Stone - Live,Totally Stripped - Brixton (Live),2016-06-06,42lZNU10LGveGqm6VyJjcf,0.018,0.123,0.936,0.000203,0.971,-5.012,0.0753,204.066,0.449,19,352680,False,tempo
+It's All Over Now - The Joe Loss Pop Show / 1964,On Air (Deluxe),2017-12-01,3RFJ43T0gDkeryjBNaLj23,0.163,0.179,0.794,0.016,0.366,-8.237,0.0428,200.624,0.455,18,198786,False,tempo
+Flip Flop And Fly - Live,Live At The Checkerboard Lounge,2012-07-09,7DP44czst4J3LVEKKCFvkr,0.00743,0.276,0.957,0.0,0.196,-4.688,0.0641,198.193,0.808,18,110253,False,tempo
+Intro - Live,A Bigger Bang (Live),2021-07-09,1ainbI65iGCqgkqi0cJd1E,0.258,0.183,0.967,0.688,0.87,-13.77,0.088,46.525,0.0159,17,130759,False,tempo
+Keep Up Blues,Some Girls (Deluxe Version),1978-06-09,4LSyTg4sm3N99Pcckw9zjf,0.102,0.355,0.887,0.0142,0.1,-3.085,0.107,204.098,0.649,16,260893,False,tempo
+If You Need Me - The Joe Loss Pop Show / 1964,On Air (Deluxe),2017-12-01,4Pv8b114sGZcwpGNblFCls,0.0278,0.181,0.705,3.03e-05,0.289,-7.225,0.0366,201.878,0.635,14,121226,False,tempo
+Like A Rolling Stone - Live,Totally Stripped - Amsterdam (Live),2016-06-03,7xBMiL1Qe5O1SowmRfikeI,0.0563,0.175,0.882,0.0,0.786,-6.051,0.0574,203.954,0.385,14,359200,False,tempo
+Time Is On My Side - Live,got LIVE if you want it!,1966-12-10,3LOcsLNqD4iMHXtFI87MmS,0.222,0.172,0.802,0.16,0.541,-7.373,0.0542,196.46,0.462,13,168733,False,tempo
+The Last Time - Live,got LIVE if you want it!,1966-12-10,2oMOIxQihtvKqXiK0y4Q8K,0.046,0.118,0.933,0.0,0.529,-6.996,0.117,205.02,0.414,13,187813,False,tempo
+Slipping Away - Live,Totally Stripped - Amsterdam (Live),2016-06-03,1i3QdxXz7W0AQr3DkXYlvs,0.0699,0.204,0.805,0.0,0.972,-6.613,0.0649,200.367,0.529,11,351533,False,tempo
+Rip This Joint - Live,Totally Stripped - Amsterdam (Live),2016-06-03,3KSLbVjE9Hdx6abOGewoj4,0.0986,0.203,0.97,6.51e-06,0.948,-5.085,0.153,213.254,0.473,9,176800,False,tempo
+Time Is On My Side,12 x 5,1964-10-17,6aiALZZDFibaxE067I9Jf8,0.288,0.232,0.838,0.0,0.0704,-7.555,0.144,215.81,0.424,9,172733,False,tempo
+Lady Jane - Stereo Version,Aftermath (UK Version),1966-04-15,4wBUcfAyg3R5WvgFq82MTd,0.536,0.337,0.308,4.12e-05,0.0845,-16.301,0.0439,204.801,0.322,8,188040,False,tempo
+Mannish Boy - Live,Love You Live (Remastered),1977-09-23,5d2iUnydZ3RK5fpY1jYwJq,0.717,0.349,0.69,0.0257,0.888,-8.424,0.0659,201.691,0.84,6,387733,False,tempo
+Plundered My Soul,Exile On Main Street (Bonus Track Version),1972-05-12,2gmK0P9vvqCVb3ZZcs6MHf,0.363,0.257,0.869,1.09e-05,0.45,-4.268,0.0389,201.97,0.731,5,238866,False,tempo
+It's All Over Now - The Joe Loss Pop Show / 1964,On Air,2017-12-01,65sv959lcEbPr88w7nxCaw,0.163,0.179,0.794,0.016,0.366,-8.237,0.0428,200.624,0.455,4,198786,False,tempo
+"Good Times, Bad Times - Mono Version",12 x 5,1964-10-17,2F3iN8io7kkrrIMXW7nhvd,0.0546,0.438,0.534,0.00494,0.112,-9.714,0.0462,196.971,0.643,2,150200,False,tempo
